@@ -4,13 +4,33 @@
 
 ## Topics  
 
-1) Data Types  
 
-2) Data Structures  
+**1) Data Types**   
 
-3) Artificial Life  
+a) point data:  
 
-4) Evolution of Development  
+b) processes:  
+
+c) comparative:  
+
+d) longitudinal:  
+
+
+**2) Data Structures**    
+
+a) lineage and differentiation trees:  
+
+b) embryo networks:  
+
+c) time-series:  
+
+d) topological maps:  
+
+
+**3) Artificial Life**  
+
+
+**4) Evolution of Development**  
 
 
 ## Resources  
