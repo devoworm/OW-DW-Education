@@ -1,7 +1,8 @@
 # Developmental Data Science  
-## DevoWorm Group and OpenWorm Foundation  
+### Sponsored by: [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/), Instructors: TBA  
+### 
 
-### Topics  
+## Topics  
 
 1) Data Types  
 
@@ -12,7 +13,7 @@
 4) Evolution of Development  
 
 
-### Resources  
+## Resources  
 
 DevoZoo   [link](https://devoworm.github.io/)  
 
