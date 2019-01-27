@@ -1,0 +1,23 @@
+# Developmental Data Science  
+## DevoWorm Group and OpenWorm Foundation  
+
+### Topics  
+
+1) Data Types  
+
+2) Data Structures  
+
+3) Artificial Life  
+
+4) Evolution of Development  
+
+
+### Resources  
+
+DevoZoo   [link](https://devoworm.github.io/)  
+
+Systems Science of Biological Dynamics (SSBD) database   [link](http://ssbd.qbic.riken.jp/)  
+
+OpenWorm: PyOpenWorm   [link]()  
+
+OpenWorm: Community Data Science   [coming soon]()  
