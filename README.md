@@ -2,6 +2,10 @@
 
 ## Educational resources for the DevoWorm group.  
 
+### Mini-course:
+
+Developmental Data Science   [coming soon]()  
+
 ### Microcredentials from Badgelist (OpenWorm Foundation digital badges):  
 
 Worm development I: Embryogenesis   [link](https://www.badgelist.com/OpenWorm/Worm-Development-I-Embryogenesis)   
@@ -10,7 +14,7 @@ Worm Development II   [link](https://www.badgelist.com/OpenWorm/Worm-Development
 
 ### Video Lectures:
 
-Digital Biology and Open Science -- the coming revolution, Dr. Stephen Larson at TEDx  [link](https://www.youtube.com/watch?v=EKopW86CCJo)  
+Digital Biology and Open Science -- the coming revolution, Dr. Stephen Larson (OpenWorm Foundation) at TEDx  [link](https://www.youtube.com/watch?v=EKopW86CCJo)  
 
 _Caenorhabditis elegans_: a model organism, Science of Biology  [link](https://www.youtube.com/watch?v=JmIWEkbCEd0)  
 
