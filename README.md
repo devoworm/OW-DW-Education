@@ -4,7 +4,7 @@
 
 ### Mini-course:
 
-Developmental Data Science   [coming soon]()  
+Developmental Data Science   [link](https://github.com/devoworm/Education/blob/master/Developmental%20Data%20Science/About.md)  
 
 ### Microcredentials from Badgelist (OpenWorm Foundation digital badges):  
 
