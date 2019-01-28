@@ -38,13 +38,15 @@ This course is intended to provide collaborators and students with basic backgro
 
 ## Basic Resources  
 
-DevoZoo   [link](https://devoworm.github.io/)  
+DevoWorm: DevoZoo   [link](https://devoworm.github.io/)  
 
-Systems Science of Biological Dynamics (SSBD) database   [link](http://ssbd.qbic.riken.jp/)  
+RIKEN: Systems Science of Biological Dynamics (SSBD) database   [link](http://ssbd.qbic.riken.jp/)  
 
-OpenWorm: PyOpenWorm   [link]()  
+OpenWorm: PyOpenWorm   [link](https://pypi.org/project/PyOpenWorm/)  
 
 OpenWorm: Community Data Science   [coming soon]()  
+
+Developmental Biology Interactive   link(http://www.devbio.biology.gatech.edu/)  
 
 
 ## Computational Concepts  
@@ -54,3 +56,7 @@ Generative Model   [link](https://en.wikipedia.org/wiki/Generative_model)
 Agent-Based Model   [link](https://en.wikipedia.org/wiki/Agent-based_model)  
 
 Mathematical Model   [link](https://en.wikipedia.org/wiki/Mathematical_model)  
+
+Conway's Game of Life   [link](http://www.conwaylife.com/wiki/Conway%27s_Game_of_Life)  
+
+Complexity Explorables   [link](http://www.complexity-explorables.org/)
