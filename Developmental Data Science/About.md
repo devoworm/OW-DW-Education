@@ -36,7 +36,7 @@ This course is intended to provide collaborators and students with basic backgro
 **4) Evolution of Development**  
 
 
-## Resources  
+## Basic Resources  
 
 DevoZoo   [link](https://devoworm.github.io/)  
 
@@ -45,3 +45,12 @@ Systems Science of Biological Dynamics (SSBD) database   [link](http://ssbd.qbic
 OpenWorm: PyOpenWorm   [link]()  
 
 OpenWorm: Community Data Science   [coming soon]()  
+
+
+## Computational Concepts  
+
+Generative Model   [link](https://en.wikipedia.org/wiki/Generative_model)  
+
+Agent-Based Model   [link](https://en.wikipedia.org/wiki/Agent-based_model)  
+
+Mathematical Model   [link](https://en.wikipedia.org/wiki/Mathematical_model)  
