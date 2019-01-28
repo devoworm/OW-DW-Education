@@ -16,6 +16,8 @@ Basic _C. elegans_ biology references   [talk](https://github.com/devoworm/devow
 
 Standards for Open Data Analysis   [talk](https://github.com/devoworm/devoworm.github.io/blob/master/Creating-Open-Datasets.md)  
 
+Visualizing Human Embryos   [talk](https://embryo.asu.edu/pages/visualizing-human-embryos-1999-bradley-richard-smith)  
+
 
 ## Topics  
 
