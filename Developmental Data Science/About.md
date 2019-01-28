@@ -57,6 +57,8 @@ Agent-Based Model   [link](https://en.wikipedia.org/wiki/Agent-based_model)
 
 Mathematical Model   [link](https://en.wikipedia.org/wiki/Mathematical_model)  
 
+Phenomenological Model   [link](https://en.wikipedia.org/wiki/Phenomenological_model)  
+
 Conway's Game of Life   [link](http://www.conwaylife.com/wiki/Conway%27s_Game_of_Life)  
 
 Complexity Explorables   [link](http://www.complexity-explorables.org/)
