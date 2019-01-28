@@ -1,6 +1,9 @@
 # Developmental Data Science  
 ### Sponsored by: [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/), Instructors: TBA  
-### 
+
+### Summary: 
+This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. 
+
 
 ## Topics  
 
