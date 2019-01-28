@@ -5,8 +5,19 @@
 This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. 
 
 
-## Topics  
+### License:
+All content is licensed under Creative Content license ([CC-BY-SA-4.0](https://github.com/devoworm/Licensing-DRM/blob/master/CC-BY-SA-4.0%20License.md)).  
 
+## Introduction and Community Standards:
+
+Flash talk: DevoWorm group Introduction   [talk](https://www.youtube.com/watch?v=7jpksJcYK6E)  
+
+Basic _C. elegans_ biology references   [talk](https://github.com/devoworm/devoworm.github.io/blob/master/Basic-C.%20elegans-Biology-References.md)  
+
+Standards for Open Data Analysis   [talk](https://github.com/devoworm/devoworm.github.io/blob/master/Creating-Open-Datasets.md)  
+
+
+## Topics  
 
 **1) Data Types**   
 
