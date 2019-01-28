@@ -7,24 +7,24 @@
 
 **1) Data Types**   
 
-a) point data:  
+&nbsp;&nbsp;&nbsp;&nbsp;a) point data:  
 
-b) processes:  
+&nbsp;&nbsp;&nbsp;&nbsp;b) processes:  
 
-c) comparative:  
+&nbsp;&nbsp;&nbsp;&nbsp;c) comparative:  
 
-d) longitudinal:  
+&nbsp;&nbsp;&nbsp;&nbsp;d) longitudinal:  
 
 
 **2) Data Structures**    
 
-a) lineage and differentiation trees:  
+&nbsp;&nbsp;&nbsp;&nbsp;a) lineage and differentiation trees:  
 
-b) embryo networks:  
+&nbsp;&nbsp;&nbsp;&nbsp;b) embryo networks:  
 
-c) time-series:  
+&nbsp;&nbsp;&nbsp;&nbsp;c) time-series:  
 
-d) topological maps:  
+&nbsp;&nbsp;&nbsp;&nbsp;d) topological maps:  
 
 
 **3) Artificial Life**  
