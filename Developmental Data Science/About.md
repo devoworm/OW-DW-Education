@@ -45,12 +45,18 @@ Visualizing Human Embryos   [talk](https://embryo.asu.edu/pages/visualizing-huma
 
 **3) Artificial Life**  
 
+&nbsp;&nbsp;&nbsp;&nbsp;a) representational models:  
+
+&nbsp;&nbsp;&nbsp;&nbsp;b) discrete spatial simulation and data:  
+
+&nbsp;&nbsp;&nbsp;&nbsp;c) generative methods:   
+
 
 **4) Evolution of Development**  
 
 &nbsp;&nbsp;&nbsp;&nbsp;a) comparative methods:  
 
-&nbsp;&nbsp;&nbsp;&nbsp;b) experimental evolution: 
+&nbsp;&nbsp;&nbsp;&nbsp;b) experimental evolution:  
 
 
 ## Basic Resources  
@@ -63,7 +69,7 @@ OpenWorm: PyOpenWorm   [link](https://pypi.org/project/PyOpenWorm/)
 
 OpenWorm: Community Data Science   [coming soon]()  
 
-Developmental Biology Interactive   link(http://www.devbio.biology.gatech.edu/)  
+Developmental Biology Interactive   [link](http://www.devbio.biology.gatech.edu/)  
 
 
 ## Computational Concepts  
