@@ -48,6 +48,10 @@ Visualizing Human Embryos   [talk](https://embryo.asu.edu/pages/visualizing-huma
 
 **4) Evolution of Development**  
 
+&nbsp;&nbsp;&nbsp;&nbsp;a) comparative methods:  
+
+&nbsp;&nbsp;&nbsp;&nbsp;b) experimental evolution: 
+
 
 ## Basic Resources  
 
