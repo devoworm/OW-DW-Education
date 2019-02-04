@@ -1,14 +1,18 @@
 # Developmental Data Science  
-### Sponsored by: [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/), Instructors: TBA  
+### Sponsored by:  
+[DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/), Instructors: TBA  
+
+### Contributors:  
+Bradly Alicea, 
 
 ### Summary: 
 This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. It also approaches developmental biology from a data scientific perspective, highlighting ways to analyze data extracted from developmental processes. 
 
-### Evaluation:
+### Evaluation:  
 
 
 
-### License:
+### License:  
 All content is licensed under Creative Content license ([CC-BY-SA-4.0](https://github.com/devoworm/Licensing-DRM/blob/master/CC-BY-SA-4.0%20License.md)).  
 
 ## Introduction and Community Standards:
