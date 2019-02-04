@@ -21,7 +21,14 @@ Visualizing Human Embryos   [talk](https://embryo.asu.edu/pages/visualizing-huma
 
 ## Topics  
 
-**Introduction** abstraction and data sources.  
+**Introduction** abstraction, data sources, and storage formats.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;a) how to build a digital embryo.    
+
+&nbsp;&nbsp;&nbsp;&nbsp;b) image/literature mining and repositories.    
+
+&nbsp;&nbsp;&nbsp;&nbsp;c) CSV, XML, JSON, PyOpenWorm.  
 
 
 **1) Data Types**   
