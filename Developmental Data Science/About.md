@@ -3,7 +3,7 @@
 [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/), Instructors: TBA  
 
 ### Contributors:  
-Bradly Alicea, 
+Dr. Bradly Alicea, 
 
 ### Summary: 
 This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. It also approaches developmental biology from a data scientific perspective, highlighting ways to analyze data extracted from developmental processes. 
