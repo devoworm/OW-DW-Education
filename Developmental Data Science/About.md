@@ -2,7 +2,10 @@
 ### Sponsored by: [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/), Instructors: TBA  
 
 ### Summary: 
-This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. It also approaches developmental biology from a data scientific perspective, highlighting ways to analyze data extracted from developmental processes.
+This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. It also approaches developmental biology from a data scientific perspective, highlighting ways to analyze data extracted from developmental processes. 
+
+### Evaluation:
+
 
 
 ### License:
@@ -24,11 +27,11 @@ Visualizing Human Embryos   [talk](https://embryo.asu.edu/pages/visualizing-huma
 **Introduction** abstraction, data sources, and storage formats.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;a) how to build a digital embryo.    
+&nbsp;&nbsp;&nbsp;&nbsp;a) how to build a digital embryo:   
 
-&nbsp;&nbsp;&nbsp;&nbsp;b) image/literature mining and repositories.    
+&nbsp;&nbsp;&nbsp;&nbsp;b) image/literature mining and repositories:    
 
-&nbsp;&nbsp;&nbsp;&nbsp;c) CSV, XML, JSON, PyOpenWorm.  
+&nbsp;&nbsp;&nbsp;&nbsp;c) CSV, XML, JSON, PyOpenWorm:   
 
 
 **1) Data Types**   
