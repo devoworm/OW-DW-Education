@@ -1,6 +1,6 @@
 # Developmental Data Science  
 ### Sponsored by:  
-[DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/), Instructors: TBA  
+[DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/). 
 
 ### Contributors:  
 Dr. Bradly Alicea, 
@@ -9,7 +9,7 @@ Dr. Bradly Alicea,
 This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. It also approaches developmental biology from a data scientific perspective, highlighting ways to analyze data extracted from developmental processes. 
 
 ### Evaluation:  
-
+TBA
 
 
 ### License:  
@@ -35,7 +35,7 @@ Visualizing Human Embryos   [talk](https://embryo.asu.edu/pages/visualizing-huma
 
 &nbsp;&nbsp;&nbsp;&nbsp;b) image/literature mining and repositories:    
 
-&nbsp;&nbsp;&nbsp;&nbsp;c) CSV, XML, JSON, PyOpenWorm:   
+&nbsp;&nbsp;&nbsp;&nbsp;c) [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://www.w3schools.com/xml/default.asp), [JSON](https://www.w3schools.com/js/js_json_intro.asp), [PyOpenWorm](https://pypi.org/project/PyOpenWorm/)   
 
 
 **1) Data Types**   
