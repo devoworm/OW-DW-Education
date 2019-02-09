@@ -31,11 +31,11 @@ Visualizing Human Embryos   [talk](https://embryo.asu.edu/pages/visualizing-huma
 **Introduction** abstraction, data sources, and storage formats.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;a) how to build a digital embryo:   
+&nbsp;&nbsp;&nbsp;&nbsp;a) How to build a digital embryo: [Object-Oriented Thinking for Biological Systems lecture](https://drive.google.com/file/d/1kS8gUHAvTaAXQpJNZ548sRLq0uVP3tt2/view)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;b) image/literature mining and repositories:    
+&nbsp;&nbsp;&nbsp;&nbsp;b) Image/literature mining and repositories: [Literature Mining I badge (working with papers)](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-I-working-with-papers), [Literature Mining II badge (working with secondary data)](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-II-working-with-secondary-data)    
 
-&nbsp;&nbsp;&nbsp;&nbsp;c) [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://www.w3schools.com/xml/default.asp), [JSON](https://www.w3schools.com/js/js_json_intro.asp), [PyOpenWorm](https://pypi.org/project/PyOpenWorm/)   
+&nbsp;&nbsp;&nbsp;&nbsp;c) Data Frameworks: [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://www.w3schools.com/xml/default.asp), [JSON](https://www.w3schools.com/js/js_json_intro.asp), [PyOpenWorm](https://pypi.org/project/PyOpenWorm/)   
 
 
 **1) Data Types**   
