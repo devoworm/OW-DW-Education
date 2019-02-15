@@ -24,4 +24,6 @@ Online Developmental Biology: Introduction to _C. elegans_, Dr. Jason Pellettier
 
 Basic biology references and key papers   [link](https://github.com/devoworm/devoworm.github.io/blob/master/Basic-C.%20elegans-Biology-References.md)  
 
-Jupyter Notebooks (DevoZoo)   [link](https://devoworm.github.io/)  
+Guidelines for Creating Open Datasets  [link](https://github.com/devoworm/devoworm.github.io/blob/master/Creating-Open-Datasets.md)
+
+DevoWorm-related Jupyter Notebooks (DevoZoo)   [link](https://devoworm.github.io/)  
