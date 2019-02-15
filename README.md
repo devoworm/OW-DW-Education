@@ -1,2 +1,2 @@
-##OpenWorm/DevoWorm Educational Curriculum  
-###Mozilla Open Leaders  
+## OpenWorm/DevoWorm Educational Curriculum  
+### Bradly Alicea, Mozilla Open Leaders  
