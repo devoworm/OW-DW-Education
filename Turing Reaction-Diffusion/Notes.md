@@ -5,7 +5,7 @@ The Turing reaction-diffusion model is a mean field description in the form of b
 $${\frac{\partial{x_i}}{\partial_t}} = V_i({x_j}, \lambda) + D_i \nabla^2 {x_i}\tag{1}$$
 
 <p align="center">
-  <img width="617" height="172" src="https://user-images.githubusercontent.com/19001437/53520874-552f8e80-3a9c-11e9-91c1-2ae61fc9fac8.jpg">
+  <img width="617" height="172" src="https://user-images.githubusercontent.com/19001437/53520874-552f8e80-3a9c-11e9-91c1-2ae61fc9fac8.jpg"><BR>
   Example of patterns that result from Equation 1. Taken from [1].
 </p>
 
