@@ -9,6 +9,17 @@ $${\frac{\partial{x_i}}{\partial_t}} = V_i({x_j}, \lambda) + D_i \nabla^2 {x_i}\
   Example of patterns that result from Equation 1. Taken from [1].
 </p>
 
+$${\frac{\partial{I}}{\partial{t}}} = G(A, I) + D_I {\frac{\partial^2{I}}{\partial{x^2}}}\tag{2}$$
+
+$${\frac{\partial{A}}{\partial{t}}} = F(A, I) + D_A {\frac{\partial^2{A}}{\partial{x^2}}}\tag{3}$$
+
+<p align="center">
+  <img width="521" height="225" src="https://user-images.githubusercontent.com/19001437/53523296-13a1e200-3aa2-11e9-991b-88ccea1dc72f.png"><BR>
+  Example of pattern formation in fish skin. Taken from [2].
+</p>
+
 
 __NOTES:__    
-[1] Kondo S, and Miura T (2010). [Reaction-diffusion model as a framework for understanding biological pattern formation](https://www.ncbi.nlm.nih.gov/pubmed/20929839). _Science_, 329, 1616-1620.
+[1] Kondo S, and Miura T (2010). [Reaction-diffusion model as a framework for understanding biological pattern formation](https://www.ncbi.nlm.nih.gov/pubmed/20929839). _Science_, 329, 1616-1620.  
+
+[2] Torii, K.U. (2012). [Two-dimensional spatial patterning in developmental systems](https://www.ncbi.nlm.nih.gov/pubmed/22789547). _Trends in Cell Biology_, 22(8), 438-446.
