@@ -11,17 +11,17 @@ $${\frac{\partial{x_i}}{\partial_t}} = V_i({x_j}, \lambda) + D_i \nabla^2 {x_i}\
   Figure 1. Example of patterns that result from Equation 1. Taken from [2].
 </p>
 
-Equation 2 characterizes the changes in $I$ per unit time (see Figure 1). $G(A, I)$ represents the reaction component, while $D_I$ represents the diffusion component.
+The coupled feedback system described in equations 2 and 3 are a restatement of the dynamics described in equation 1. Equation 2 characterizes the changes in $I$ per unit time (see Figure 1). $G(A, I)$ represents the reaction component, while $D_I$ represents the diffusion component. 
 
 $${\frac{\partial{I}}{\partial{t}}} = G(A, I) + D_I {\frac{\partial^2{I}}{\partial{x^2}}}\tag{2}$$
 
-Equation 2 characterizes the changes in $A$ per unit time (see Figure 1). $F(A, I)$ represents the reaction component, while $D_A$ represents the diffusion component.
+Equation 3 characterizes the changes in $A$ per unit time (see Figure 1). $F(A, I)$ represents the reaction component, while $D_A$ represents the diffusion component.
 
 $${\frac{\partial{A}}{\partial{t}}} = F(A, I) + D_A {\frac{\partial^2{A}}{\partial{x^2}}}\tag{3}$$
 
 <p align="center">
   <img width="521" height="225" src="https://user-images.githubusercontent.com/19001437/53523296-13a1e200-3aa2-11e9-991b-88ccea1dc72f.png"><BR>
-  Example of pattern formation in fish skin. Taken from [3].
+  Figure 2. Example of pattern formation in fish skin. The activity of the black hexagons (striped pattern) is characterized in Equation 2, and is representative of faster diffusion, while the activity of yellow hexagons is characterized in Equation 3, and is representative of slower diffusion. Taken from [3].
 </p>
 
 
