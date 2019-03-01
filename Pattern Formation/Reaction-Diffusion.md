@@ -8,8 +8,7 @@ $${\frac{\partial{x_i}}{\partial_t}} = V_i({x_j}, \lambda) + D_i \nabla^2 {x_i}\
 
 <p align="center">
   <img width="617" height="172" src="https://user-images.githubusercontent.com/19001437/53520874-552f8e80-3a9c-11e9-91c1-2ae61fc9fac8.jpg"><BR>
-  
-  __Figure 1.__ Example of patterns that result from Equation 1. Taken from [1].
+  Figure 1. Example of patterns that result from Equation 1. Taken from [1].
 </p>
 
 Equation 2 characterizes the changes in $I$ per unit time (see Figure 1). $G(A, I)$ represents the reaction component, while $D_I$ represents the diffusion component.
