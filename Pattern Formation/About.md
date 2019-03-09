@@ -7,7 +7,11 @@
 Dr. Bradly Alicea, 
 
 ### Summary: 
+This module features two tutorials that should be convered in the following order
 
+1) Reaction-Diffusion   [link](https://github.com/devoworm/OW-DW-Education/blob/master/Pattern%20Formation/Reaction-Diffusion.md)
+
+2) Cellular Automata   [link](https://github.com/devoworm/OW-DW-Education/blob/master/Pattern%20Formation/Cellular-Automata.md)
 
 ### Evaluation:  
 TBA
