@@ -18,7 +18,7 @@ All content is licensed under Creative Content license ([CC-BY-SA-4.0](https://g
 
 ### Materials:
 
-Yogi Jaeger's "Beyond Networks" Twitter course:  
+[Yogi Jaeger](https://scholar.google.com/citations?user=Wk8kppcAAAAJ&hl=en)'s "Beyond Networks" Twitter course:  
 
 Thread Number | Topic | Materials |
 ---|-----------------|---------------------------------------------|
