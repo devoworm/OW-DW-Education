@@ -18,7 +18,7 @@ All content is licensed under Creative Content license ([CC-BY-SA-4.0](https://g
 
 ### Materials:
 
-1) [Yogi Jaeger](https://scholar.google.com/citations?user=Wk8kppcAAAAJ&hl=en)'s "Beyond Networks" Twitter course 
+##### [Yogi Jaeger](https://scholar.google.com/citations?user=Wk8kppcAAAAJ&hl=en)'s "Beyond Networks" Twitter course  
 
 Thread Number | Topic | Materials |
 ---|-----------------|---------------------------------------------|
@@ -37,11 +37,17 @@ Thread Number | Topic | Materials |
 13  |  Information theory  |  [link](https://t.co/MWY1Mwq2ME)  |
 14  |  Inheritance of process (wrap-up)  |  [link](https://t.co/HdSbbabFK3)  |
 
-2) Demos from [Dirk Brockmann](http://rocs.hu-berlin.de/)'s [Complexity Explorables](http://www.complexity-explorables.org/)
+##### Developmentally-oriented demos from [Dirk Brockmann](http://rocs.hu-berlin.de/)'s [Complexity Explorables](http://www.complexity-explorables.org/) collection  
 
 Kelp!!! (Stochastic Cellular Automaton)   [link](http://www.complexity-explorables.org/explorables/kelp/)  
 
 Weeds & Trees (Lindenmeyer Systems)   [link](http://www.complexity-explorables.org/explorables/weeds-trees/)  
+
+Yo, Kohonen! (Self-Organizing Maps)   [link](http://www.complexity-explorables.org/explorables/yokohonen/)  
+
+Hopfed Turingles (Pattern Formation in a Gray-Scott model)   [link](http://www.complexity-explorables.org/explorables/grayscott/)  
+
+Scott's World (Microbial growth patterns)   [link](http://www.complexity-explorables.org/explorables/scotts-world/)  
 
 
 
