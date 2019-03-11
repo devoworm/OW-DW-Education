@@ -18,7 +18,7 @@ All content is licensed under Creative Content license ([CC-BY-SA-4.0](https://g
 
 ### Materials:
 
-[Yogi Jaeger](https://scholar.google.com/citations?user=Wk8kppcAAAAJ&hl=en)'s "Beyond Networks" Twitter course:  
+1) [Yogi Jaeger](https://scholar.google.com/citations?user=Wk8kppcAAAAJ&hl=en)'s "Beyond Networks" Twitter course 
 
 Thread Number | Topic | Materials |
 ---|-----------------|---------------------------------------------|
@@ -36,5 +36,13 @@ Thread Number | Topic | Materials |
 12  |  Epistasis & adaptive landscapes  |  [link](https://t.co/dfV575epVR)  |
 13  |  Information theory  |  [link](https://t.co/MWY1Mwq2ME)  |
 14  |  Inheritance of process (wrap-up)  |  [link](https://t.co/HdSbbabFK3)  |
+
+2) Demos from [Dirk Brockmann](http://rocs.hu-berlin.de/)'s [Complexity Explorables](http://www.complexity-explorables.org/)
+
+Kelp!!! (Stochastic Cellular Automaton)   [link](http://www.complexity-explorables.org/explorables/kelp/)  
+
+Weeds & Trees (Lindenmeyer Systems)   [link](http://www.complexity-explorables.org/explorables/weeds-trees/)  
+
+
 
 
