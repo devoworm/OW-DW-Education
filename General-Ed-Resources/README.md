@@ -6,6 +6,12 @@
 
 Developmental Data Science   [link](https://github.com/devoworm/OW-DW-Education/blob/master/Developmental%20Data%20Science/About.md)  
 
+### Tutorials:  
+
+Dynamical Systems and Development   [link](https://github.com/devoworm/OW-DW-Education/tree/master/Dynamical%20Systems%20and%20Development)
+
+Pattern Formation   [link](https://github.com/devoworm/OW-DW-Education/tree/master/Pattern%20Formation)
+
 ### Microcredentials from Badgelist (OpenWorm Foundation digital badges):  
 
 Worm development I: Embryogenesis   [link](https://www.badgelist.com/OpenWorm/Worm-Development-I-Embryogenesis)   
