@@ -23,7 +23,8 @@ $${\frac{\partial{A}}{\partial{t}}} = F(A, I) + D_A {\frac{\partial^2{A}}{\parti
   <img width="521" height="225" src="https://user-images.githubusercontent.com/19001437/53523296-13a1e200-3aa2-11e9-991b-88ccea1dc72f.png"><BR>
   Figure 2. Example of pattern formation in fish skin. The activity of the black hexagons (striped pattern) is characterized in Equation 2, and is representative of faster diffusion, while the activity of yellow hexagons is characterized in Equation 3, and is representative of slower diffusion. Taken from [3].
 </p>
-
+  
+This simple form of [bistability](https://en.wikipedia.org/wiki/Bistability) provides a mechanism for striping and spotting in an organism's phenotype.  
 
 __NOTES:__   
 [1]  Turing, A. M. (1952). [The Chemical Basis of Morphogenesis](https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012). _Philosophical Transactions of the Royal Society of London B_, 237 (641), 37–72.
