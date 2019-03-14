@@ -1,6 +1,6 @@
-## Code of Conduct, OW-DW Education.
+## Code of Conduct, OW-DW Education
 
-### General Points of Conduct:
+### General Points of Conduct
 
 1) all contributors (including senior contributors) will engage respectfully with each other. Harassment will not be tolerated and addressed on a case-by-case basis.
 
