@@ -13,6 +13,8 @@ This module features two tutorials that should be convered in the following orde
 
 2) Cellular Automata   [link](https://github.com/devoworm/OW-DW-Education/blob/master/Pattern%20Formation/Cellular-Automata.md)
 
+3) Developmental Attractors and Chaos   [link](---) 
+
 ### Evaluation:  
 TBA
 
