@@ -6,15 +6,17 @@
 Dr. Bradly Alicea, 
 
 ### Duration:  
-This course is self-paced, but should involve around 20 hours of engagement (about 40% of a 3-credit University course).  
+This course is self-paced, but overall should involve around 20 hours of engagement (about 40% of a 3-credit University course).  
 
 ### What will you achieve:
 1) an understanding of how developmental biology can be approached using the tools and principles of data science.  
 
-2) 
+2) a crash-course in developmental biology.  
+
+3) the ability to make a substantial contribution to the OpenWorm/DevoWorm community.  
 
 ### Summary: 
-This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. It also approaches developmental biology from a data scientific perspective, highlighting ways to analyze data extracted from developmental processes. 
+This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. It also approaches developmental biology from a data scientific perspective, highlighting ways to analyze data extracted from developmental processes. Taken together with the other short courses, tutorials, and microcredentials in the OW/DW curriculum, 
 
 ### Evaluation:  
 TBA
