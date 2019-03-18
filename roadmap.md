@@ -4,7 +4,7 @@ The scientific mission of the [OpenWorm Foundation](http://openworm.org) is to b
 
 The activities of this initiative cover three long-term goals: 1) uniquely positioning our organization in terms of online education, 2) integration with our other educational assets to serve organizational needs, and 2) to serve as a conduit for strengthening community ties.
 
-__1) Online education.__ One goal of OW/DW Education is to offer both learning and pedagogical opportunities around topical themes and project content. We have the ability to establish a niche in the online education environment by offering unique topics while also providing a unique perspective on these topics. 
+__1) Online education.__ One goal of OW/DW Education is to offer both learning and pedagogical opportunities around topical themes and project content. We have the ability to establish a niche in the online education environment by offering unique topics while also providing a unique perspective on these topics. We will be using a combination of longer course syllabi, shorter tutorials, and a range of supporting materials.
 
 __2) Organizational integration.__ A second goal of OW/DW Education is to integrate more formal educational opportunities with our existing educational and scientific assets. In particular, we would like to integrate our digital badge content with our simulation environments and open datasets to provide a more reflective experience for current and potential contributors alike.
 
