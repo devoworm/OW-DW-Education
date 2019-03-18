@@ -41,15 +41,13 @@ Thread Number | Topic | Materials |
 
 ##### Developmentally-oriented demos from [Dirk Brockmann](http://rocs.hu-berlin.de/)'s [Complexity Explorables](http://www.complexity-explorables.org/) collection   
 
-Kelp!!! (Stochastic Cellular Automaton)   [link](http://www.complexity-explorables.org/explorables/kelp/)  
-
-Weeds & Trees (Lindenmeyer Systems)   [link](http://www.complexity-explorables.org/explorables/weeds-trees/)  
-
-Yo, Kohonen! (Self-Organizing Maps)   [link](http://www.complexity-explorables.org/explorables/yokohonen/)  
-
-Hopfed Turingles (Pattern Formation in a Gray-Scott model)   [link](http://www.complexity-explorables.org/explorables/grayscott/)  
-
-Scott's World (Microbial growth patterns)   [link](http://www.complexity-explorables.org/explorables/scotts-world/)  
+Simulation | Location | Description |
+----------------------------------------|-----------------------------------------------------------------|---------------------|
+Kelp!!! (Stochastic Cellular Automaton) | [link](http://www.complexity-explorables.org/explorables/kelp/) | [Wikipedia](https://en.wikipedia.org/wiki/Stochastic_cellular_automaton) |
+Weeds & Trees (Lindenmeyer Systems) | [link](http://www.complexity-explorables.org/explorables/weeds-trees/) | [Wikipedia](https://en.wikipedia.org/wiki/L-system) |
+Yo, Kohonen! (Self-Organizing Maps) | [link](http://www.complexity-explorables.org/explorables/yokohonen/) | [Wikipedia](https://en.wikipedia.org/wiki/Self-organizing_map) 
+Hopfed Turingles (Pattern Formation in a Gray-Scott model) |  [link](http://www.complexity-explorables.org/explorables/grayscott/) | [Karl Sims](http://www.karlsims.com/rd.html)
+Scott's World (Microbial growth patterns) | [link](http://www.complexity-explorables.org/explorables/scotts-world/) | [Wikipedia](https://en.wikipedia.org/wiki/Bacterial_growth) |
 
 
 
