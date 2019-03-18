@@ -19,7 +19,7 @@ All content is licensed under Creative Content license ([CC-BY-SA-4.0](https://g
 
 ### Materials:
 
-##### [Yogi Jaeger](https://scholar.google.com/citations?user=Wk8kppcAAAAJ&hl=en)'s "Beyond Networks" Twitter course  
+#### [Yogi Jaeger](https://scholar.google.com/citations?user=Wk8kppcAAAAJ&hl=en)'s "Beyond Networks" Twitter course  
 
 Thread Number | Topic | Materials |
 ---|-----------------|---------------------------------------------|
@@ -39,7 +39,7 @@ Thread Number | Topic | Materials |
 14  |  Inheritance of process (wrap-up)  |  [link](https://t.co/HdSbbabFK3)  |
 
 
-##### Developmentally-oriented demos from [Dirk Brockmann](http://rocs.hu-berlin.de/)'s [Complexity Explorables](http://www.complexity-explorables.org/) collection   
+#### Developmentally-oriented demos from [Dirk Brockmann](http://rocs.hu-berlin.de/)'s [Complexity Explorables](http://www.complexity-explorables.org/) collection   
 
 Simulation | Location | Description |
 ----------------------------------------|-----------------------------------------------------------------|---------------------|
