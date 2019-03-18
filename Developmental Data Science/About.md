@@ -5,6 +5,14 @@
 ### Contributors:  
 Dr. Bradly Alicea, 
 
+### Duration:  
+This course is self-paced, but should involve around 20 hours of engagement (about 40% of a 3-credit University course).  
+
+### What will you achieve:
+1) an understanding of how developmental biology can be approached using the tools and principles of data science.  
+
+2) 
+
 ### Summary: 
 This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. It also approaches developmental biology from a data scientific perspective, highlighting ways to analyze data extracted from developmental processes. 
 
@@ -30,7 +38,6 @@ Visualizing Human Embryos   [talk](https://embryo.asu.edu/pages/visualizing-huma
 
 **Introduction** abstraction, data sources, and storage formats.
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;a) How to build a digital embryo: [Object-Oriented Thinking for Biological Systems lecture](https://drive.google.com/file/d/1kS8gUHAvTaAXQpJNZ548sRLq0uVP3tt2/view)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;b) Image/literature mining and repositories: [Literature Mining I badge (working with papers)](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-I-working-with-papers), [Literature Mining II badge (working with secondary data)](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-II-working-with-secondary-data)    
@@ -49,7 +56,18 @@ Visualizing Human Embryos   [talk](https://embryo.asu.edu/pages/visualizing-huma
 &nbsp;&nbsp;&nbsp;&nbsp;d) longitudinal:  
 
 
-**2) Data Structures**    
+**2) From Cells to Pixels**
+
+&nbsp;&nbsp;&nbsp;&nbsp;a) image segmentation with [ImageJ](https://imagej.nih.gov/ij/) and [Scilab](https://www.scilab.org/): 
+
+&nbsp;&nbsp;&nbsp;&nbsp;b) towards semantic segmentation:
+
+&nbsp;&nbsp;&nbsp;&nbsp;c) isometric maps and indexing:
+
+&nbsp;&nbsp;&nbsp;&nbsp;d) annotations and ontologies:
+
+
+**3) Data Structures**    
 
 &nbsp;&nbsp;&nbsp;&nbsp;a) lineage and differentiation trees:  
 
@@ -60,20 +78,13 @@ Visualizing Human Embryos   [talk](https://embryo.asu.edu/pages/visualizing-huma
 &nbsp;&nbsp;&nbsp;&nbsp;d) topological maps:  
 
 
-**3) Artificial Life**  
+**4) Artificial Life**  
 
 &nbsp;&nbsp;&nbsp;&nbsp;a) representational models:  
 
 &nbsp;&nbsp;&nbsp;&nbsp;b) discrete spatial simulation and data:  
 
 &nbsp;&nbsp;&nbsp;&nbsp;c) generative methods:   
-
-
-**4) Evolution of Development**  
-
-&nbsp;&nbsp;&nbsp;&nbsp;a) comparative methods:  
-
-&nbsp;&nbsp;&nbsp;&nbsp;b) experimental evolution:  
 
 
 ## Basic Resources  
@@ -86,7 +97,12 @@ OpenWorm: PyOpenWorm   [link](https://pypi.org/project/PyOpenWorm/)
 
 OpenWorm: Community Data Science   [coming soon]()  
 
-Developmental Biology Interactive   [link](http://www.devbio.biology.gatech.edu/)  
+Developmental Biology Interactive   [link](http://www.devbio.biology.gatech.edu/)   
+
+
+## Local Resources
+
+Imaginal Disc of _Drosophila melanogaster_     [link](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation)  
 
 
 ## Computational Concepts  
