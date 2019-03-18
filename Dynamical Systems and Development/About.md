@@ -6,7 +6,8 @@
 ### Contributors:  
 Dr. Bradly Alicea, 
 
-### Summary: 
+### Summary:  
+This course is intended to introduce learners to applications of dynamical systems and complexity to organismal development. 
 
 
 ### Evaluation:  
@@ -37,7 +38,8 @@ Thread Number | Topic | Materials |
 13  |  Information theory  |  [link](https://t.co/MWY1Mwq2ME)  |
 14  |  Inheritance of process (wrap-up)  |  [link](https://t.co/HdSbbabFK3)  |
 
-##### Developmentally-oriented demos from [Dirk Brockmann](http://rocs.hu-berlin.de/)'s [Complexity Explorables](http://www.complexity-explorables.org/) collection  
+
+##### Developmentally-oriented demos from [Dirk Brockmann](http://rocs.hu-berlin.de/)'s [Complexity Explorables](http://www.complexity-explorables.org/) collection   
 
 Kelp!!! (Stochastic Cellular Automaton)   [link](http://www.complexity-explorables.org/explorables/kelp/)  
 
