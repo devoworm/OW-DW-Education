@@ -8,6 +8,9 @@ Dr. Bradly Alicea,
 ### Duration  
 This course is self-paced, but overall should involve around 20-30 hours of engagement (about 40% in-class time for a 3-credit University course).  
 
+## Discussion Board
+Link to [discussion board](https://eliademy.com/app/a/courses/bdb7b0a934/discussions). Here you will discuss assignments, presentations, and readings.
+
 ### What will you achieve
 1) an understanding of how developmental biology can be approached using the tools and principles of data science.  
 
