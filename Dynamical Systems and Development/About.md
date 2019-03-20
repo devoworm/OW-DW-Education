@@ -9,6 +9,8 @@ Dr. Bradly Alicea,
 ### Summary:  
 This course is intended to introduce learners to applications of dynamical systems and complexity to organismal development. 
 
+### Discussion Board
+Link to [discussion board](https://eliademy.com/app/a/courses/bdb7b0a934/discussions). Here you will discuss assignments, presentations, and readings.
 
 ### Evaluation:  
 TBA
