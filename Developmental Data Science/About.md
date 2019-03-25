@@ -39,7 +39,6 @@ Visualizing Human Embryos   [link](https://embryo.asu.edu/pages/visualizing-huma
 
 Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm.nih.gov/books/NBK21607/)  
 
-
 ## Topics  
 
 **Introduction) abstraction, data sources, and storage formats**   
@@ -64,7 +63,7 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 
 &nbsp;&nbsp;&nbsp;&nbsp;d) longitudinal:  
 
-** Assignments**
+**Assignments**
 1) download [this Slideshow]() about each data type and answer [these questions]()
 
 **2) From Cells to Pixels**  
