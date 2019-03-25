@@ -3,7 +3,7 @@
 [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/). 
 
 ### Contributors  
-Dr. Bradly Alicea, 
+Dr. Bradly Alicea [bio](https://bradly-alicea.weebly.com/), 
 
 ### Duration  
 This course is self-paced, but overall should involve around 20-30 hours of engagement (about 40% in-class time for a 3-credit University course).  
@@ -22,7 +22,7 @@ Link to [discussion board](https://eliademy.com/app/a/courses/bdb7b0a934/discuss
 This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. It also approaches developmental biology from a data scientific perspective, highlighting ways to analyze data extracted from developmental processes. Taken together with the other short courses, tutorials, and microcredentials in the OW/DW curriculum, 
 
 ### Evaluation  
-TBA
+Each section will have assignments, which the learner will complete to earn each part of the course.
 
 
 ### License  
@@ -50,7 +50,7 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 &nbsp;&nbsp;&nbsp;&nbsp;c) Data Frameworks: [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://www.w3schools.com/xml/default.asp), [JSON](https://www.w3schools.com/js/js_json_intro.asp), [PyOpenWorm](https://pypi.org/project/PyOpenWorm/)   
 
 **Assignments** 
-1) enroll for and earn both Literature Mining badges   
+1) enroll for and earn both Literature Mining badges ob Badgelist (Instructors will award).   
 
 2) using [these tabular data](), reformat into either XML or JSON format and submit a pull request to [this repo]()  
 
@@ -64,6 +64,8 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 
 &nbsp;&nbsp;&nbsp;&nbsp;d) longitudinal:  
 
+** Assignments**
+1) download [this Slideshow]() about each data type and answer [these questions]()
 
 **2) From Cells to Pixels**  
 &nbsp;&nbsp;&nbsp;&nbsp;a) image segmentation with [ImageJ](https://imagej.nih.gov/ij/) and [Scilab](https://www.scilab.org/): 
