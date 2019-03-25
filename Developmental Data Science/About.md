@@ -2,8 +2,8 @@
 ### Sponsored by  
 [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/). 
 
-### Contributors  
-Dr. Bradly Alicea [bio](https://bradly-alicea.weebly.com/), 
+### Contributors/Instructors  
+Dr. Bradly Alicea [web](https://bradly-alicea.weebly.com/), 
 
 ### Duration  
 This course is self-paced, but overall should involve around 20-30 hours of engagement (about 40% in-class time for a 3-credit University course).  
@@ -19,7 +19,7 @@ Link to [discussion board](https://eliademy.com/app/a/courses/bdb7b0a934/discuss
 3) the ability to make a substantial contribution to the OpenWorm/DevoWorm community.  
 
 ### Summary 
-This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. It also approaches developmental biology from a data scientific perspective, highlighting ways to analyze data extracted from developmental processes. Taken together with the other short courses, tutorials, and microcredentials in the OW/DW curriculum, 
+This course is intended to provide collaborators and students with basic background in how to conduct data science research with particular relevance to the area of developmental biology. It also approaches developmental biology from a data scientific perspective, highlighting ways to analyze data extracted from developmental processes. Taken together with the other short courses, tutorials, and microcredentials in the OW/DW curriculum, this course should offer new OW/DW contributors and interested learners in the global community an indispensible educational resource.
 
 ### Evaluation  
 Each section will have assignments, which the learner will complete to earn each part of the course.
@@ -52,7 +52,7 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 **Assignments** 
 1) enroll for and earn both Literature Mining badges ob Badgelist (Instructors will award).   
 
-2) using [these tabular data](), reformat into either XML or JSON format and submit a pull request to [this repo]()  
+2) using [these tabular data](https://github.com/devoworm/OW-DW-Education/blob/master/Data%20Repo/sampledata.csv), reformat into either XML or JSON format and submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Data%20Repo) consisting of a file labeled FirstName_LastName.foo
 
 
 **1) Data Types**   
