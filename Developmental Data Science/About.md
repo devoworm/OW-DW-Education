@@ -42,12 +42,17 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 
 ## Topics  
 
-**Introduction: abstraction, data sources, and storage formats**   
+**Introduction) abstraction, data sources, and storage formats**   
 &nbsp;&nbsp;&nbsp;&nbsp;a) How to build a digital embryo: [Object-Oriented Thinking for Biological Systems lecture](https://drive.google.com/file/d/1kS8gUHAvTaAXQpJNZ548sRLq0uVP3tt2/view), [WormBrowser -- Blender Model of Adult _Caenorhabditis elegans_](http://browser.openworm.org/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;b) Image/literature mining and repositories: [Literature Mining I badge (working with papers)](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-I-working-with-papers), [Literature Mining II badge (working with secondary data)](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-II-working-with-secondary-data)    
 
 &nbsp;&nbsp;&nbsp;&nbsp;c) Data Frameworks: [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://www.w3schools.com/xml/default.asp), [JSON](https://www.w3schools.com/js/js_json_intro.asp), [PyOpenWorm](https://pypi.org/project/PyOpenWorm/)   
+
+**Assignments** 
+1) enroll for and earn both Literature Mining badges   
+
+2) using [these tabular data](), reformat into either XML or JSON format and submit a pull request to [this repo]()  
 
 
 **1) Data Types**   
@@ -88,7 +93,15 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 &nbsp;&nbsp;&nbsp;&nbsp;c) generative methods:   
 
 
-## Basic Resources  
+## Local (DevoWorm) Resources  
+Imaginal Disc of _Drosophila melanogaster_     [link](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation)  
+
+Metadata for early _Ciona intestinalis_ embryogenesis   [link](https://github.com/devoworm/DevoWorm/tree/master/Ascidian%20Embryogenesis%20Data)
+
+Processed data for _Caenorhabditis elegans_ embryogenesis   [cell position](https://github.com/devoworm/DevoWorm/tree/master/Positional%20Info), [cell lineage tree](https://github.com/devoworm/DevoWorm/tree/master/Lineage%20Tree%20DB), [cell birth/death times](https://github.com/devoworm/DevoWorm/tree/master/Cell%20Birth%20and%20Death%20Timing%20Data)
+
+
+## Additional Resources   
 DevoWorm: DevoZoo   [link](https://devoworm.github.io/)  
 
 RIKEN: Systems Science of Biological Dynamics (SSBD) database   [link](http://ssbd.qbic.riken.jp/)  
@@ -100,14 +113,7 @@ OpenWorm: Community Data Science   [link](https://github.com/devoworm/Data-Scien
 Developmental Biology Interactive   [link](http://www.devbio.biology.gatech.edu/)   
 
 
-## Local Resources
-Imaginal Disc of _Drosophila melanogaster_     [link](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation)  
-
-Metadata for early _Ciona intestinalis_ embryogenesis   [link](https://github.com/devoworm/DevoWorm/tree/master/Ascidian%20Embryogenesis%20Data)
-
-Processed data for _Caenorhabditis elegans_ embryogenesis   [cell position](https://github.com/devoworm/DevoWorm/tree/master/Positional%20Info), [cell lineage tree](https://github.com/devoworm/DevoWorm/tree/master/Lineage%20Tree%20DB), [cell birth/death times](https://github.com/devoworm/DevoWorm/tree/master/Cell%20Birth%20and%20Death%20Timing%20Data)
-
-## Computational Concepts  
+## Computational Concepts   
 Generative Model   [link](https://en.wikipedia.org/wiki/Generative_model)  
 
 Agent-Based Model   [link](https://en.wikipedia.org/wiki/Agent-based_model)  
