@@ -1,5 +1,9 @@
 ## OpenWorm/DevoWorm Educational Curriculum  
 
+Would you like to contribute? Here is what we are working on: [OpenWorm Foundation](http://openworm.org/), [DevoWorm group](https://devoworm.weebly.com/)
+
+Check out our communication channels to become part of the community: [Orthogonal Lab Slack](orthogonal-research.slack.com), [OpenWorm Slack](https://openworm.slack.com/), [DevoWorm group meetings](https://devoworm.weebly.com/schedulejoin.html)
+
 ### Contribution Guidelines 
 
 The following contributor guidelines set the standard for proposed contributions to the OW/DW Educational curriculum.
