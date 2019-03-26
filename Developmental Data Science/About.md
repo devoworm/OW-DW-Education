@@ -75,6 +75,10 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 
 &nbsp;&nbsp;&nbsp;&nbsp;d) annotations and ontologies:
 
+**Assignments**  
+
+
+
 
 **3) Data Structures**    
 &nbsp;&nbsp;&nbsp;&nbsp;a) lineage and differentiation trees:  
@@ -85,6 +89,9 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 
 &nbsp;&nbsp;&nbsp;&nbsp;d) topological maps:  
 
+**Assignments**  
+
+
 
 **4) Artificial Life**  
 &nbsp;&nbsp;&nbsp;&nbsp;a) representational models:  
@@ -92,6 +99,10 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 &nbsp;&nbsp;&nbsp;&nbsp;b) discrete spatial simulation and data:  
 
 &nbsp;&nbsp;&nbsp;&nbsp;c) generative methods:   
+
+**Assignments**  
+
+
 
 
 ## Local (DevoWorm) Resources  
