@@ -74,9 +74,9 @@ a) image segmentation: read the [Wikipedia stub](https://en.wikipedia.org/wiki/I
 
 b) feature selection: read the [Wikipedia stub](https://en.wikipedia.org/wiki/Image_segmentation) on this topic.
 
-* review the [feature selection examples here](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation/tree/master/Areal%20Size%20Distributions), and using the image [presented in step a](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation/blob/master/Wolff-Gordon-Gordon-drawing.TIF), run your own feature selection analysis.
+* review the [feature selection examples here](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation/tree/master/Areal%20Size%20Distributions), and using the image [presented in step a](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation/blob/master/Wolff-Gordon-Gordon-drawing.TIF), run your own feature selection analysis using [ImageJ](https://imagej.nih.gov/ij/) or [OpenCV](https://opencv.org/).
 
-b) annotations and ontologies: read these Wikipedia stubs ([annotation](https://en.wikipedia.org/wiki/Annotation), [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science))) on the topics.
+c) annotations and ontologies: read these Wikipedia stubs ([annotation](https://en.wikipedia.org/wiki/Annotation), [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science))) on the topics.
 
 * 
 
@@ -98,7 +98,6 @@ b) annotations and ontologies: read these Wikipedia stubs ([annotation](https://
 &nbsp;&nbsp;&nbsp;&nbsp;d) topological maps:  
 
 **Assignments**  
-
 
 
 **4) Artificial Life**  
