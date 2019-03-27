@@ -49,19 +49,19 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 &nbsp;&nbsp;&nbsp;&nbsp;c) Data Frameworks: [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://www.w3schools.com/xml/default.asp), [JSON](https://www.w3schools.com/js/js_json_intro.asp), [PyOpenWorm](https://pypi.org/project/PyOpenWorm/)   
 
 **Assignments** 
-1) enroll for and earn both Literature Mining badges ob Badgelist (Instructors will award).   
+1) enroll for and earn both Literature Mining badges [1](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-I-working-with-papers),[2](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-II-working-with-secondary-data) on Badgelist (Instructors will award).   
 
 2) using [these tabular data](https://github.com/devoworm/OW-DW-Education/blob/master/Data%20Repo/sampledata.csv), reformat into either XML or JSON format and submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Data%20Repo) consisting of a file labeled FirstName_LastName.foo
 
 
 **1) Data Types**   
-&nbsp;&nbsp;&nbsp;&nbsp;a) point data:  
+&nbsp;&nbsp;&nbsp;&nbsp;a) point data: a single object or event. **Example:** a cell centroid.
 
-&nbsp;&nbsp;&nbsp;&nbsp;b) processes:  
+&nbsp;&nbsp;&nbsp;&nbsp;b) processes: multiple units of point data that are linked through a set of causal relationships. **Example:** growth of a cell cluster.
 
-&nbsp;&nbsp;&nbsp;&nbsp;c) comparative:  
+&nbsp;&nbsp;&nbsp;&nbsp;c) comparative: analogies between multiple processes. **Example:** growth in a slime mold versus growth in a bacterial colony.
 
-&nbsp;&nbsp;&nbsp;&nbsp;d) longitudinal:  
+&nbsp;&nbsp;&nbsp;&nbsp;d) longitudinal: point data, processes, or comparisons that occur over time. **Example:** different phases of growth, from early to late in the process.
 
 **Assignments**
 1) download [this Slideshow]() about each data type and answer [these questions]()
