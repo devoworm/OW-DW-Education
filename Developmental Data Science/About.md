@@ -42,11 +42,11 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 ## Topics  
 
 **Introduction) abstraction, data sources, and storage formats**   
-&nbsp;&nbsp;&nbsp;&nbsp;a) How to build a digital embryo: [Object-Oriented Thinking for Biological Systems lecture](https://drive.google.com/file/d/1kS8gUHAvTaAXQpJNZ548sRLq0uVP3tt2/view), [WormBrowser -- Blender Model of Adult _Caenorhabditis elegans_](http://browser.openworm.org/)
+a) How to build a digital embryo: [Object-Oriented Thinking for Biological Systems lecture](https://drive.google.com/file/d/1kS8gUHAvTaAXQpJNZ548sRLq0uVP3tt2/view), [WormBrowser -- Blender Model of Adult _Caenorhabditis elegans_](http://browser.openworm.org/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;b) Image/literature mining and repositories: [Literature Mining I badge (working with papers)](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-I-working-with-papers), [Literature Mining II badge (working with secondary data)](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-II-working-with-secondary-data)    
+b) Image/literature mining and repositories: [Literature Mining I badge (working with papers)](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-I-working-with-papers), [Literature Mining II badge (working with secondary data)](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-II-working-with-secondary-data)    
 
-&nbsp;&nbsp;&nbsp;&nbsp;c) Data Frameworks: [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://www.w3schools.com/xml/default.asp), [JSON](https://www.w3schools.com/js/js_json_intro.asp), [PyOpenWorm](https://pypi.org/project/PyOpenWorm/)   
+c) Data Frameworks: [CSV](https://en.wikipedia.org/wiki/Comma-separated_values), [XML](https://www.w3schools.com/xml/default.asp), [JSON](https://www.w3schools.com/js/js_json_intro.asp), [PyOpenWorm](https://pypi.org/project/PyOpenWorm/)   
 
 **Assignments** 
 1) enroll for and earn both Literature Mining badges [1](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-I-working-with-papers),[2](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-II-working-with-secondary-data) on Badgelist (Instructors will award).   
