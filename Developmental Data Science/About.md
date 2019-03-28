@@ -78,7 +78,7 @@ b) feature selection: read the [Wikipedia stub](https://en.wikipedia.org/wiki/Im
 
 c) categorization and annotation: read these Wikipedia stubs ([categorization](https://en.wikipedia.org/wiki/Categorization), [annotation](https://en.wikipedia.org/wiki/Annotation)) on the topics.
 
-* review these data tables ([1](), [2]()) and produce two plots: one showing the number of neurons present at different time periods, and the other showing changes in the number of cells present by cell family over time.
+* review these data tables ([1](https://github.com/devoworm/OW-DW-Education/blob/master/Data%20Repo/cellsbyfamily.csv), [2](https://github.com/devoworm/OW-DW-Education/blob/master/Data%20Repo/alladultcellsinembryo.csv)) and produce two plots: one showing the number of neurons present at different time periods, and the other showing changes in the number of cells present by cell family over time.
 
 **Assignments**
 1) download and read the paper "[Morphogenetic processes as data: Quantitative structure in the Drosophila eye imaginal disc](https://www.biorxiv.org/content/10.1101/395640v1)".
