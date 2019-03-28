@@ -7,9 +7,9 @@ A,Generic neuron,4,320
 A,Ventral cord interneuron,9,312.8
 A,Amphid cell socket,2,322.5
 A,Amphid sheath cell,6,301.7
-A,Ring, ventral cord interneuron,3,290
+A,Ring - ventral cord interneuron,3,290
 A,Dorsal cord neuron,1,350
-A,Amphid, ring cell interneuron,8,320
+A,Amphid - ring cell interneuron,8,320
 A,Amphid neuron,4,350
 B,ILso neuron,2,292.5
 B,Rectal cell,1,280
@@ -21,7 +21,7 @@ C,Excretory neuron,2,290
 C,Epithelial pharyngeal cell,9,324.4
 D,Dorsal muscle innervation, ring interneuron,2,315
 D,Dorsal muscle innervation, ventral motorneuron,16,315.63
-D,Reciprocal inhibitor, ventral motorneuron,6,350
+D,Reciprocal inhibitor - ventral motorneuron,6,350
 e,Pharyngeal epithelial cell,9,324.4
 exc,Excretory duct,1,290
 exc,Excretory gland,2,290
