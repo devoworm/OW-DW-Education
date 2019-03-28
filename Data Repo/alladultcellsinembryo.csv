@@ -1,0 +1,529 @@
+ID,Birth time,Family,Cell name
+1,235,A,ADEshL
+1,235,A,ADEshR
+2,280,A,ADFL
+2,280,A,ADFR
+3,290,A,ADLL
+4,295,A,ADLR
+5,350,A,AFDL
+5,350,A,AFDR
+5,350,A,AIAL
+5,350,A,AIAR
+3,290,A,AIBL
+4,295,A,AIBR
+2,280,A,AIML
+4,295,A,AIMR
+5,350,A,AINL
+5,350,A,AINR
+5,350,A,AIYL
+5,350,A,AIYR
+5,350,A,ALA
+5,350,A,AMshL
+3,290,A,AMshR
+4,295,A,AMsoL
+5,350,A,AMsoR
+5,350,A,ASEL
+5,350,A,ASER
+5,350,A,ASGL
+5,350,A,ASGR
+4,295,A,ASHL
+6,300,A,ASHR
+7,400,A,ASIL
+7,400,A,ASIR
+5,350,A,ASJL
+5,350,A,ASJR
+7,400,A,ASKL
+7,400,A,ASKR
+5,350,A,AUAL
+5,350,A,AUAR
+4,295,A,AVAL
+4,295,A,AVAR
+5,350,A,AVBL
+6,300,A,AVBR
+3,290,A,AVDL
+3,290,A,AVDR
+5,350,A,AVEL
+5,350,A,AVER
+4,295,A,AVG
+5,350,A,AVHL
+5,350,A,AVHR
+3,290,A,AVJL
+3,290,A,AVJR
+3,290,A,AVKL
+3,290,A,AVKR
+3,290,A,AVL
+5,350,A,AWAL
+5,350,A,AWAR
+2,280,A,AWBL
+2,280,A,AWBR
+4,295,A,AWCL
+6,300,A,AWCR
+5,350,a,arc ant DL
+6,300,a,arc ant DR
+5,350,a,arc ant V
+5,350,a,arc post D
+6,300,a,arc post DL
+4,295,a,arc post DR
+2,280,a,arc post V
+5,350,a,arc post VL
+5,350,a,arc post VR
+2,280,B,B
+3,290,B,BAGL
+4,295,B,BAGR
+3,290,C,CANL
+3,290,C,CANR
+5,350,C,CEMDL
+5,350,C,CEMDR
+5,350,C,CEMVL
+5,350,C,CEMVR
+7,400,C,CEPDL
+7,400,C,CEPDR
+5,350,C,CEPshDL
+5,350,C,CEPshDR
+5,350,C,CEPshVL
+5,350,C,CEPshVR
+3,290,C,CEPsoDL
+3,290,C,CEPsoDR
+5,350,C,CEPsoVL
+4,295,C,CEPsoVR
+7,400,C,CEPVL
+4,295,D,DA1
+5,350,D,DA2
+5,350,D,DA3
+5,350,D,DA4
+5,350,D,DA5
+4,295,D,DA6
+4,295,D,DA7
+6,300,D,DA8
+4,295,D,DA9
+3,290,D,DB1
+6,300,D,DB2
+4,295,D,DB3
+3,290,D,DB4
+4,295,D,DB5
+5,350,D,DB6
+5,350,D,DB7
+5,350,D,DD1
+5,350,D,DD2
+5,350,D,DD3
+5,350,D,DD4
+5,350,D,DD5
+5,350,D,DD6
+2,280,D,DVA
+5,350,D,DVC
+5,350,e,e1D
+5,350,e,e1VL
+5,350,e,e1VR
+6,300,e,e2DL
+4,295,e,e2DR
+8,275,e,e2V
+6,300,e,e3D
+5,350,e,e3VL
+5,350,e,e3VR
+9,265,exc,exc cell
+3,290,exc,exc duct
+3,290,exc,exc gl L
+3,290,exc,exc gl R
+2,280,F,F
+4,295,G,G1
+7,400,g,g1AL
+7,400,g,g1AR
+5,350,g,g1P
+10,225,G,G2
+5,350,g,g2L
+7,400,g,g2R
+5,350,G,GLRDL
+5,350,G,GLRDR
+7,400,G,GLRL
+7,400,G,GLRR
+7,400,G,GLRVL
+7,400,G,GLRVR
+10,225,H,H0L
+10,225,H,H0R
+10,225,H,H1L
+10,225,H,H1R
+1,235,H,H2L
+1,235,H,H2R
+9,265,h,hmc
+4,295,h,hyp10
+4,295,h,hyp10
+1,235,h,hyp11
+4,295,h,hyp1DL
+4,295,h,hyp1DR
+6,300,h,hyp1V
+5,350,h,hyp2DL
+3,290,h,hyp2V
+5,350,h,hyp3
+5,350,h,hyp3
+11,230,h,hyp4
+11,230,h,hyp4
+11,230,h,hyp4
+12,240,h,hyp5
+12,240,h,hyp5
+11,230,h,hyp6
+11,230,h,hyp6
+11,230,h,hyp6
+11,230,h,hyp6
+11,230,h,hyp6
+10,225,h,hyp6
+13,215,h,hyp7
+13,215,h,hyp7
+13,215,h,hyp7
+13,215,h,hyp7
+14,220,h,hyp7
+14,220,h,hyp7
+14,220,h,hyp7
+14,220,h,hyp7
+10,225,h,hyp7
+10,225,h,hyp7
+10,225,h,hyp7
+10,225,h,hyp7
+10,225,h,hyp7
+10,225,h,hyp7
+10,225,h,hyp7
+11,230,h,hyp7
+11,230,h,hyp7
+11,230,h,hyp7
+11,230,h,hyp7
+11,230,h,hyp7
+11,230,h,hyp7
+1,235,h,hyp7
+1,235,h,hyp7
+8,275,h,hyp8
+8,275,h,hyp9
+5,350,I,I1L
+5,350,I,I1R
+7,400,I,I2L
+7,400,I,I2R
+5,350,I,I3
+3,290,I,I4
+2,280,I,I5
+5,350,I,I6
+7,400,I,IL1DL
+7,400,I,IL1DR
+7,400,I,IL1L
+5,350,I,IL1VR
+2,280,I,IL2DL
+2,280,I,IL2DR
+3,290,I,IL2L
+3,290,I,IL2R
+3,290,I,IL2VL
+3,290,I,IL2VR
+4,295,I,ILshDL
+4,295,I,ILshDR
+6,300,I,ILshL
+4,295,I,ILshR
+3,290,I,ILshVL
+3,290,I,ILshVR
+4,295,I,ILsoDL
+4,295,I,ILsoDR
+5,350,I,ILsoL
+5,350,I,ILsoR
+5,350,I,ILsoVL
+5,350,I,ILsoVR
+7,400,i,int1DL
+7,400,i,int1DR
+7,400,i,int1VL
+7,400,i,int1VR
+11,230,i,int2D
+11,230,i,int2V
+1,235,i,int3Da
+8,275,i,int3Dp
+1,235,i,int3Va
+8,275,i,int3Vp
+12,240,i,int4Da
+8,275,i,int4Dp
+12,240,i,int4Va
+8,275,i,int4Vp
+1,235,i,int5La
+8,275,i,int5Lp
+1,235,i,int5Ra
+8,275,i,int5Rp
+12,240,i,int6La
+8,275,i,int6Lp
+12,240,i,int6Ra
+8,275,i,int6Rp
+15,250,i,int7La
+3,290,i,int7Lp
+15,250,i,int7Ra
+3,290,i,int7Rp
+7,400,i,int8L
+7,400,i,int8R
+7,400,i,int9L
+7,400,i,int9R
+2,280,K,K
+5,350,L,LUAL
+16,260,M,M
+5,350,M,M1
+6,300,m,m1DL
+3,290,m,m1DR
+5,350,m,m1L
+5,350,m,m1R
+5,350,m,m1VL
+5,350,m,m1VR
+5,350,m,m2DL
+3,290,m,m2DR
+5,350,m,m2L
+5,350,M,M2L
+5,350,M,M2R
+5,350,m,m2R
+5,350,m,m2VL
+5,350,m,m2VR
+3,290,m,m3DL
+3,290,m,m3DR
+2,280,m,m3L
+3,290,M,M3L
+16,260,M,M3R
+9,265,m,m3R
+2,280,m,m3VL
+3,290,m,m3VR
+3,290,M,M4
+2,280,m,m4DL
+2,280,m,m4DR
+2,280,m,m4L
+5,350,m,m4R
+5,350,m,m4VL
+5,350,m,m4VR
+5,350,M,M5
+3,290,m,m5DL
+6,300,m,m5DR
+2,280,m,m5L
+2,280,m,m5R
+2,280,m,m5VL
+2,280,m,m5VR
+6,300,m,m6D
+3,290,m,m6VL
+3,290,m,m6VR
+6,300,m,m7D
+8,275,m,m7VL
+8,275,m,m7VR
+6,300,m,m8
+2,280,m,mc1DL
+2,280,m,mc1DR
+16,260,m,mc1V
+3,290,m,mc2DL
+3,290,m,mc2DR
+9,265,m,mc2V
+6,300,m,mc3DL
+5,350,m,mc3DR
+8,275,m,mc3V
+5,350,M,MCL
+3,290,M,MCR
+5,350,M,MI
+4,295,mu,mu anal
+12,240,mu,mu bod
+12,240,mu,mu bod
+12,240,mu,mu bod
+12,240,mu,mu bod
+15,250,mu,mu bod
+15,250,mu,mu bod
+15,250,mu,mu bod
+15,250,mu,mu bod
+16,260,mu,mu bod
+16,260,mu,mu bod
+16,260,mu,mu bod
+16,260,mu,mu bod
+16,260,mu,mu bod
+16,260,mu,mu bod
+16,260,mu,mu bod
+16,260,mu,mu bod
+8,275,mu,mu bod
+8,275,mu,mu bod
+8,275,mu,mu bod
+8,275,mu,mu bod
+8,275,mu,mu bod
+8,275,mu,mu bod
+8,275,mu,mu bod
+8,275,mu,mu bod
+8,275,mu,mu bod
+8,275,mu,mu bod
+8,275,mu,mu bod
+8,275,mu,mu bod
+2,280,mu,mu bod
+2,280,mu,mu bod
+2,280,mu,mu bod
+2,280,mu,mu bod
+4,295,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+5,350,mu,mu bod
+7,400,mu,mu bod
+7,400,mu,mu bod
+7,400,mu,mu bod
+7,400,mu,mu bod
+7,400,mu,mu bod
+7,400,mu,mu bod
+7,400,mu,mu bod
+7,400,mu,mu bod
+4,295,mu,mu int L
+16,260,mu,mu int R
+4,295,mu,mu sph
+3,290,OL,OLLshL
+3,290,OL,OLLshR
+4,295,OL,OLLsoL
+4,295,OL,OLLsoR
+7,400,OL,OLQDL
+7,400,OL,OLQDR
+5,350,OL,OLQshDL
+5,350,OL,OLQshDR
+5,350,OL,OLQshVL
+5,350,OL,OLQshVR
+5,350,OL,OLQsoDL
+5,350,OL,OLQsoDR
+5,350,OL,OLQsoVL
+5,350,OL,OLQsoVR
+11,230,P,P1
+10,225,P,P10
+13,215,P,P11
+10,225,P,P12
+11,230,P,P2
+13,215,P,P3
+11,230,P,P4
+13,215,P,P5
+10,225,P,P6
+13,215,P,P7
+10,225,P,P8
+13,215,P,P9
+4,295,P,PDA
+3,290,P,PHAL
+3,290,P,PHAR
+8,275,P,PHshL
+8,275,P,PHshR
+4,295,P,PVCL
+4,295,P,PVPL
+1,235,P,PVPR
+3,290,P,PVQL
+5,350,P,PVQR
+5,350,P,PVR
+5,350,P,PVT
+3,290,rect,rect D
+2,280,rect,rect hyp
+4,295,rect,rect VL
+4,295,rect,rect VR
+5,350,R,RIAL
+5,350,R,RIAR
+4,295,R,RIBL
+6,300,R,RIBR
+5,350,R,RID
+5,350,R,RIGL
+5,350,R,RIGR
+3,290,R,RIH
+5,350,R,RIML
+5,350,R,RIMR
+3,290,R,RIPL
+5,350,R,RIPR
+4,295,R,RIR
+3,290,R,RIS
+5,350,R,RIVL
+6,300,R,RIVR
+3,290,R,RMDDL
+4,295,R,RMDDR
+6,300,R,RMDL
+4,295,R,RMDR
+5,350,R,RMDVL
+5,350,R,RMDVR
+5,350,R,RMED
+5,350,R,RMEL
+5,350,R,RMER
+9,265,R,RMEV
+5,350,R,RMGL
+5,350,R,RMGR
+4,295,S,SAADL
+4,295,S,SAADR
+4,295,S,SAAVL
+6,300,S,SAAVR
+4,295,S,SABD
+6,300,S,SIADL
+6,300,S,SIADR
+4,295,S,SIAVL
+6,300,S,SIAVR
+6,300,S,SIBDL
+6,300,S,SIBDR
+6,300,S,SIBVL
+6,300,S,SIBVR
+7,400,S,SMBDL
+5,350,S,SMBVL
+6,300,S,SMBVR
+5,350,S,SMDDL
+5,350,S,SMDDR
+3,290,S,SMDVL
+4,295,S,SMDVR
+4,295,t,tail spike
+4,295,t,tail spike
+11,230,T,TL
+11,230,T,TR
+2,280,U,U
+5,350,U,URADL
+5,350,U,URADR
+5,350,U,URAVL
+5,350,U,URAVR
+3,290,U,URBL
+4,295,U,URBR
+7,400,U,URXL
+7,400,U,URXR
+3,290,U,URYDL
+3,290,U,URYDR
+4,295,U,URYVL
+4,295,U,URYVR
+11,230,V,V1L
+11,230,V,V1R
+11,230,V,V2L
+11,230,V,V2R
+13,215,V,V3L
+10,225,V,V3R
+11,230,V,V4L
+11,230,V,V4R
+11,230,V,V6L
+11,230,V,V6R
+3,290,v,virL
+3,290,v,virR
+5,350,v,vpi1
+3,290,v,vpi2DL
+3,290,v,vpi2DR
+3,290,v,vpi2V
+2,280,v,vpi3D
+3,290,v,vpi3V
+10,225,W,W
+12,240,XXX,XXXL
+12,240,XXX,XXXR
+9,265,Z,Z1
+17,200,Z,Z2
+17,200,Z,Z3
+9,265,Z,Z4
