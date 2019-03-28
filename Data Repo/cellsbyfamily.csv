@@ -1,0 +1,89 @@
+Family,Name,Number of Cells,Birth Time in Minutes (Average)
+a,Pharynx-hypodermal, buccal cavity,9,325
+A,Amphid, chemosensory neuron,4,286.25
+A,Ciliated amphid wing neuron,6,309.17
+A,Ciliated amphid neuron,12,357.9
+A,Generic neuron,4,320
+A,Ventral cord interneuron,9,312.8
+A,Amphid cell socket,2,322.5
+A,Amphid sheath cell,6,301.7
+A,Ring, ventral cord interneuron,3,290
+A,Dorsal cord neuron,1,350
+A,Amphid, ring cell interneuron,8,320
+A,Amphid neuron,4,350
+B,ILso neuron,2,292.5
+B,Rectal cell,1,280
+C,Dopaminergic cephalic neuron,3,400
+C,Chemotactic cephalic neuron,4,350
+C,Cephalic sheath,4,350
+C,Cephalic socket,4,306.25
+C,Excretory neuron,2,290
+C,Epithelial pharyngeal cell,9,324.4
+D,Dorsal muscle innervation, ring interneuron,2,315
+D,Dorsal muscle innervation, ventral motorneuron,16,315.63
+D,Reciprocal inhibitor, ventral motorneuron,6,350
+e,Pharyngeal epithelial cell,9,324.4
+exc,Excretory duct,1,290
+exc,Excretory gland,2,290
+exc,Excretory H-shaped cell,1,265
+F,Rectal blast cell,1,280
+G,Gap junction between muscle and motorneuron,6,383.33
+G,Excretory cell socket,1,295
+G,Postembryonic blast cell,1,225
+g,Pharyngeal cell gland,5,380
+h,Tail dorsal hypodermis,1,235
+h,Hypodermal syncytium,18,265.28
+h,Embryonic hypodermal syncytium,23,224.57
+h,Tail ventral hypodermis,4,285
+h,Head hypodermal cell,1,265
+H,Seam hypodermal cell,6,228.33
+I,Inner labial neuron,10,327
+I,Pharyngeal interneuron,1,290
+I,Pharyngeal interneuron with anterior sensory input,5,370
+I,Pharyngeal interneuron with postsensory input,2,315
+i,Intestinal cell,30,294.67
+i,Inner labial socket,6,331.67
+i,Inner labial sheath,6,294.17
+K,Rectal cell,1,280
+L,Ventral cord interneuron,1,350
+m,Pharyngeal marginal cell,46,303.15
+M,Pharyngeal motor/inter-neuron,1,350
+M,Pharyngeal motorneuron,7,320
+M,Postembryonic mesoblast,1,260
+M,Neuronal synapse on marginal cell,2,320
+mu,Sphincter (muscle-intestino-rectal),1,295
+mu,Embryonic body wall muscle,82,320
+mu,Anterior intestinal muscle,2,277.5
+OL,Outer labial lateral sheath,2,290
+OL,Outer labial lateral socket,2,295
+OL,Outer labial neuron,2,400
+OL,Outer labial sheath,4,350
+OL,Outer labial socket,4,350
+P,Phasmid chemosensory neuron,2,290
+P,Lumbar ganglion interneuron,2,265
+P,Phasmid sheath interneuron,2,275
+P,Ventral cord motorneurons, postembryonic blast cell,2,222.1
+P,Dorsal cord motorneuron,1,295
+P,Ventral cord interneuron,1,295
+P,Generic interneuron,4,335
+R,Ring interneuron dorsal cord projection,1,350
+R,Sensory neuron (male rays),2,350
+R,Ring/pharynx interneuron,2,320
+R,Ring interneuron,15,322.3
+R,Ring motor/inter-neuron,6,313.3
+R,Ring interneuron,2,350
+rect,Rectal epithelial cell,4,290
+S,Generic neuron,8,299.4
+S,Ring interneuron,5,296
+S,Ring Motor/inter neuron,7,317
+S,Tail spike,2,295
+S,Seam hypodermal cell (tail),2,230
+U,Rectal blast cell,1,280
+U,Ring neuron (synapses in head),8,319.4
+V,Ring motorneuron,4,350
+V,Hypodermal seam cell,10,228
+v,Intestino-rectal valve,2,290
+v,Pharyngo-rectal valve,6,298.3
+W,Postembryonic neuroblast,1,225
+XXX,Embryonic hypodermal cell (head),2,240
+Z,Germ line precursor cell,4,232.5
