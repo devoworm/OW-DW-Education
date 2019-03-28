@@ -55,13 +55,13 @@ Glossary of terms -- Molecular Cell Biology (NCBI)   [link](https://www.ncbi.nlm
 
 
 **1) Data Types**   
-&nbsp;&nbsp;&nbsp;&nbsp;a) point data: a single object or event. **Example:** a cell centroid.
+a) point data: a single object or event. **Example:** a cell centroid.
 
-&nbsp;&nbsp;&nbsp;&nbsp;b) processes: multiple units of point data that are linked through a set of causal relationships. **Example:** growth of a cell cluster.
+b) processes: multiple units of point data that are linked through a set of causal relationships. **Example:** growth of a cell cluster.
 
-&nbsp;&nbsp;&nbsp;&nbsp;c) comparative: analogies between multiple processes. **Example:** growth in a slime mold versus growth in a bacterial colony.
+c) comparative: analogies between multiple processes. **Example:** growth in a slime mold versus growth in a bacterial colony.
 
-&nbsp;&nbsp;&nbsp;&nbsp;d) longitudinal: point data, processes, or comparisons that occur over time. **Example:** different phases of growth, from early to late in the process.
+d) longitudinal: point data, processes, or comparisons that occur over time. **Example:** different phases of growth, from early to late in the process.
 
 **Assignments**
 1) download [this Slideshow]() about each data type and answer [these questions]()
@@ -76,16 +76,16 @@ b) feature selection: read the [Wikipedia stub](https://en.wikipedia.org/wiki/Im
 
 * review the [feature selection examples here](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation/tree/master/Areal%20Size%20Distributions), and using the image [presented in step a](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation/blob/master/Wolff-Gordon-Gordon-drawing.TIF), run your own feature selection analysis using [ImageJ](https://imagej.nih.gov/ij/) or [OpenCV](https://opencv.org/).
 
-c) annotations and ontologies: read these Wikipedia stubs ([annotation](https://en.wikipedia.org/wiki/Annotation), [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science))) on the topics.
+c) categorization and annotation: read these Wikipedia stubs ([categorization](https://en.wikipedia.org/wiki/Categorization), [annotation](https://en.wikipedia.org/wiki/Annotation)) on the topics.
 
-* 
+* review these data tables ([1](), [2]()) and produce two plots: one showing the number of neurons present at different time periods, and the other showing changes in the number of cells present by cell family over time.
 
 **Assignments**
 1) download and read the paper "[Morphogenetic processes as data: Quantitative structure in the Drosophila eye imaginal disc](https://www.biorxiv.org/content/10.1101/395640v1)".
 
 2) identify each analysis in the accompanying [open data repo](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation)
 
-3) review the activities for this section and push images representing image segmentation, feature selection, and annotation to the [Push Assignments Here repo](https://github.com/devoworm/OW-DW-Education/tree/master/Developmental%20Data%20Science/Push%20Assignments%20Here) for this section.
+3) review the activities for this section and push images representing "image segmentation", "feature selection", and "categorization and annotation" to the [Push Assignments Here repo](https://github.com/devoworm/OW-DW-Education/tree/master/Developmental%20Data%20Science/Push%20Assignments%20Here) for this section.
 
 
 **3) Data Structures**    
