@@ -64,7 +64,7 @@ c) comparative: analogies between multiple processes. **Example:** growth in a s
 d) longitudinal: point data, processes, or comparisons that occur over time. **Example:** different phases of growth, from early to late in the process.
 
 **Assignments**
-1) download [this Slideshow]() about each data type and answer [these questions]()
+1) download [this Slideshow]() about each data type and describe one example of each of the four datatypes listed above. Submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Developmental%20Data%20Science/Push%20Assignments%20Here/Data%20Types) consisting of a file labeled FirstName_LastName.foo
 
 
 **2) From Cells to Pixels**  
