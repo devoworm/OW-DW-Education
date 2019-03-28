@@ -19,8 +19,8 @@ C,Cephalic sheath,4,350
 C,Cephalic socket,4,306.25
 C,Excretory neuron,2,290
 C,Epithelial pharyngeal cell,9,324.4
-D,Dorsal muscle innervation, ring interneuron,2,315
-D,Dorsal muscle innervation, ventral motorneuron,16,315.63
+D,Dorsal muscle innervation - ring interneuron,2,315
+D,Dorsal muscle innervation - ventral motorneuron,16,315.63
 D,Reciprocal inhibitor - ventral motorneuron,6,350
 e,Pharyngeal epithelial cell,9,324.4
 exc,Excretory duct,1,290
