@@ -51,7 +51,7 @@ c) Data Frameworks: [CSV](https://en.wikipedia.org/wiki/Comma-separated_values),
 **Assignments** 
 1) enroll for and earn both Literature Mining badges [1](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-I-working-with-papers),[2](https://www.badgelist.com/Orthogonal-Research/Literature-Mining-II-working-with-secondary-data) on Badgelist (Instructors will award).   
 
-2) using [these tabular data](https://github.com/devoworm/OW-DW-Education/blob/master/Data%20Repo/sampledata.csv), reformat into either XML or JSON format and submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Data%20Repo) consisting of a file labeled FirstName_LastName.foo
+2) using [these tabular data](https://github.com/devoworm/OW-DW-Education/blob/master/Data%20Repo/sampledata.csv), reformat into either XML or JSON format and submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Data%20Repo) consisting of a file labeled FirstName_LastName.format
 
 
 **1) Data Types**   
@@ -64,7 +64,7 @@ c) comparative: analogies between multiple processes. **Example:** growth in a s
 d) longitudinal: point data, processes, or comparisons that occur over time. **Example:** different phases of growth, from early to late in the process.
 
 **Assignments**
-1) download [this Slideshow]() about each data type and describe one example of each of the four datatypes listed above. Submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Developmental%20Data%20Science/Push%20Assignments%20Here/Data%20Types) consisting of a file labeled FirstName_LastName.foo
+1) download [this Slideshow]() about each data type and describe one example of each of the four datatypes listed above. Submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Developmental%20Data%20Science/Push%20Assignments%20Here/Data%20Types) consisting of a file labeled FirstName_LastName.format
 
 
 **2) From Cells to Pixels**  
@@ -89,27 +89,20 @@ c) categorization and annotation: read these Wikipedia stubs ([categorization](h
 
 
 **3) Data Structures**    
-&nbsp;&nbsp;&nbsp;&nbsp;a) lineage and differentiation trees:  
+&nbsp;&nbsp;&nbsp;&nbsp;a) cell lineage trees: development can be represented using a binary tree, where a single mother cell divides into two daughter cells. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;b) embryo networks:  
+* cell lineage trees are often ordered by anatomical orientation (daughter cells located anterior to its sister branch to the left, while daughter cells located posteriorly to its sister branches to the right).  
 
-&nbsp;&nbsp;&nbsp;&nbsp;c) time-series:  
+* cell lineage trees are often defined by a nomenclature, which can be used as a source of data.   
 
-&nbsp;&nbsp;&nbsp;&nbsp;d) topological maps:  
+&nbsp;&nbsp;&nbsp;&nbsp;b) embryo networks: unordered graphical relationships between individual cells in an embryo. Each node is the connections within the network are based on relative distances within the embryo.  
 
-**Assignments**  
+* see [this working document](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks) for more information on how embryo networks connect to actual developmental processes.  
 
-
-**4) Artificial Life**  
-&nbsp;&nbsp;&nbsp;&nbsp;a) representational models:  
-
-&nbsp;&nbsp;&nbsp;&nbsp;b) discrete spatial simulation and data:  
-
-&nbsp;&nbsp;&nbsp;&nbsp;c) generative methods:   
+&nbsp;&nbsp;&nbsp;&nbsp;c) time-series: time series are longitudinal data represented by a [discrete variable](https://en.wikipedia.org/wiki/Continuous_or_discrete_variable#Discrete_variable) composed of datapoints dependent with respect to time. Read this [Wikipedia](https://en.wikipedia.org/wiki/Time_series) stub for more information.  
 
 **Assignments**  
-
-
+Enroll for and earn both [Worm Development I (Embryogenesis)](https://www.badgelist.com/OpenWorm/Worm-Development-I-Embryogenesis), and [Worm Development II (Larval Development)](https://www.badgelist.com/OpenWorm/Worm-Development-II-Larval-Development) on Badgelist (Instructors will award). 
 
 
 ## Local (DevoWorm) Resources  
