@@ -36,3 +36,6 @@ You will be introduced to the diversity of model types that make up "digital wor
 3. Multiple Simulations in a Box:
 
 * [Simulation Stack (Virtual Machine)](https://www.badgelist.com/OpenWorm/OpenWorm-Docker-Apprentice)
+
+**Assignments**
+1) You will be awarded one certificate per digital badge. Submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Developmental%20Data%20Science/Push%20Assignments%20Here/Data%20Types) consisting of a subdirectory labeled FirstName_LastName and include all earned certificates within.
