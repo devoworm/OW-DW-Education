@@ -14,7 +14,13 @@ Pattern Formation   [link](https://github.com/devoworm/OW-DW-Education/tree/mast
 
 ### Microcredentials from Badgelist (OpenWorm Foundation digital badges):  
 
-Worm development I: Embryogenesis   [link](https://www.badgelist.com/OpenWorm/Worm-Development-I-Embryogenesis)   
+Github Best Practices   [link](https://www.badgelist.com/OpenWorm/OpenWorm-Github-Best-Practices-Expert)
+
+"Plugged In" to OpenWorm   [link](https://www.badgelist.com/OpenWorm/Plugged-In)
+
+OpenWorm Simulation Stack Apprentice   [link](https://www.badgelist.com/OpenWorm/OpenWorm-Docker-Apprentice)
+
+Worm Development I: Embryogenesis   [link](https://www.badgelist.com/OpenWorm/Worm-Development-I-Embryogenesis)   
 
 Worm Development II   [link](https://www.badgelist.com/OpenWorm/Worm-Development-II-Larval-Development)  
 
