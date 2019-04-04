@@ -19,7 +19,7 @@ All content is licensed under Creative Content license ([CC-BY-SA-4.0](https://g
 
 ## OpenWorm/DevoWorm Models and Representations  
 
-You will be introduced to the diversity of model types that make up "digital worm" by earning microcredentials (digital badges) geared towards practical interactions with several model types.
+You will be introduced to the diversity of model types that make up "digital worm" by earning [microcredentials (digital badges)](https://en.wikipedia.org/wiki/Digital_badge) geared towards practical interactions with several model types.
 
 1. Model of Action Potentials:  
 
@@ -38,4 +38,4 @@ You will be introduced to the diversity of model types that make up "digital wor
 * [Simulation Stack (Virtual Machine)](https://www.badgelist.com/OpenWorm/OpenWorm-Docker-Apprentice)
 
 **Assignments**
-1) You will be awarded one certificate per digital badge. Submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Developmental%20Data%20Science/Push%20Assignments%20Here/Data%20Types) consisting of a subdirectory labeled FirstName_LastName and include all earned certificates within.
+1) You will be awarded one certificate per digital badge. Submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Models%20and%20Representations/Push%20Assignments%20Here) consisting of a subdirectory labeled FirstName_LastName and include all earned certificates within.
