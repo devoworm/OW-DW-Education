@@ -23,7 +23,7 @@ You will be introduced to the diversity of model types that make up "digital wor
 
 1. Model of Action Potentials:  
 
-* [Hodgkin-Huxley](https://www.badgelist.com/OpenWorm/Hodgkin-Huxley-Tutorial-Graduate)
+* [Hodgkin-Huxley Tutorial](https://www.badgelist.com/OpenWorm/Hodgkin-Huxley-Tutorial-Graduate)
 
 2. Muscle Structure and Function (series of three badges): 
 
