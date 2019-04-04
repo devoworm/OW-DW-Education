@@ -8,8 +8,31 @@ Dr. Bradly Alicea [web](https://bradly-alicea.weebly.com/), TBA
 ### Discussion Board
 Link to [discussion board](https://eliademy.com/app/a/courses/bdb7b0a934/discussions). Here you will discuss assignments, presentations, and readings.
 
+## Summary
+This course is intended to provide collaborators and students with basic background in how to understand and critically evaluate models and representation for a host of systems. We will draw from Biological, Artificial Intelligence, and Artificial Life systems in order to decipher the types of models used in OpenWorm and DevoWorm. 
+
 ### Evaluation  
-Each section will have assignments, which the learner will complete to earn each part of the course. Assignments will be pushed to an appropriate folder in the [Push Assignments Here](https://github.com/devoworm/OW-DW-Education/tree/master/Developmental%20Data%20Science/Push%20Assignments%20Here) subdirectory.
+Each section will have assignments, which the learner will complete to earn each part of the course. Assignments will be pushed to an appropriate folder in the [Push Assignments Here](https://github.com/devoworm/OW-DW-Education/tree/master/Models%20and%20Representations/Push%20Assignments%20Here) subdirectory.
 
 ### License  
 All content is licensed under Creative Content license ([CC-BY-SA-4.0](https://github.com/devoworm/Licensing-DRM/blob/master/CC-BY-SA-4.0%20License.md)). 
+
+## OpenWorm/DevoWorm Models and Representations  
+
+You will be introduced to the diversity of model types that make up "digital worm" by earning microcredentials (digital badges) geared towards practical interactions with several model types.
+
+1. Model of Action Potentials:  
+
+* [Hodgkin-Huxley](https://www.badgelist.com/OpenWorm/Hodgkin-Huxley-Tutorial-Graduate)
+
+2. Muscle Structure and Function (series of three badges): 
+
+* [Muscle Model Builder](https://www.badgelist.com/OpenWorm/Muscle-Model-Builder)
+
+* [Muscle Model Explorer](https://www.badgelist.com/OpenWorm/Muscle-Model-Explorer)
+
+* [Muscle Model Hacker](https://www.badgelist.com/OpenWorm/Muscle-Model-Hacker)
+
+3. Multiple Simulations in a Box:
+
+* [Simulation Stack (Virtual Machine)](https://www.badgelist.com/OpenWorm/OpenWorm-Docker-Apprentice)
