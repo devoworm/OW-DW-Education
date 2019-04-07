@@ -2,15 +2,19 @@
 
 ## Educational resources for the DevoWorm group.  
 
-### Mini-course:
+### Courses:
 
-Developmental Data Science   [link](https://github.com/devoworm/OW-DW-Education/blob/master/Developmental%20Data%20Science/About.md)  
+Developmental Data Science   [link](https://github.com/devoworm/OW-DW-Education/blob/master/Developmental%20Data%20Science/About.md) 
 
-### Tutorials:  
+### Mini-courses:  
 
 Dynamical Systems and Development   [link](https://github.com/devoworm/OW-DW-Education/tree/master/Dynamical%20Systems%20and%20Development)
 
-Pattern Formation   [link](https://github.com/devoworm/OW-DW-Education/tree/master/Pattern%20Formation)
+Models and Representations   [link](https://github.com/devoworm/OW-DW-Education/tree/master/Models%20and%20Representations)  
+
+### Tutorials:  
+
+Pattern Formation (containing tutorials on Cellular Automata, Developmental Attractors/Chaos, and Reaction-Diffusion models)   [link](https://github.com/devoworm/OW-DW-Education/tree/master/Pattern%20Formation)
 
 ### Microcredentials from Badgelist (OpenWorm Foundation digital badges):  
 
