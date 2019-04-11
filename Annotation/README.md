@@ -10,4 +10,4 @@ Another way to contribute is to create a web note (using tools such as a [Chrome
 
 * when finished, save as an image file (.jpg format).  
 
-* upload and push the image to the [Annotation]() repository.
+* upload and push the image to the [Annotation](https://github.com/devoworm/OW-DW-Education/tree/master/Annotation) repository.
