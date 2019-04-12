@@ -18,6 +18,12 @@ Developmental attractors are a measure of spatial [self-organization](https://en
 Attractors are part of a larger class of [chaotic dynamical behaviors](https://en.wikipedia.org/wiki/Chaos_theory). Chaos is a [deterministic process](https://en.wikipedia.org/wiki/Deterministic_system_(philosophy)) that charcterizes the measure of state space behavior over time. Chaotic systems also possess unique nonlinear behaviors such as [sensitivity to initial condition](http://demonstrations.wolfram.com/SensitivityToInitialConditionsInChaos/), [periodic orbits](http://www.scholarpedia.org/article/Periodic_orbit), and [recursion](https://en.wikipedia.org/wiki/Recursion).  
 
 <p align="center">
-  <img width="300" height="225" src="https://user-images.githubusercontent.com/19001437/56056715-95805e80-5d22-11e9-8803-79a860051e35.gif"><BR>
-  Figure 3. The regulatory effects of _bicoid_ and _nanos_ on Hunchback production. Courtesy: [Biology-pages](http://biology-pages.info/S/Segmentation.html).
+  <img width="450" height="450" src="https://user-images.githubusercontent.com/19001437/56057929-b9916f00-5d25-11e9-8033-09212e14d3e1.jpg"><BR>
+  Figure 3. Two instances of a Lorenz attractor. Courtesy: [XaosBits](https://commons.wikimedia.org/wiki/File:TwoLorenzOrbits.jpg), Wikimedia, CC BY-SA 4.0.
+</p>
+
+
+<p align="center">
+  <img width="375" height="200" src="https://user-images.githubusercontent.com/19001437/56056715-95805e80-5d22-11e9-8803-79a860051e35.gif"><BR>
+  Figure 4. The regulatory effects of _bicoid_ and _nanos_ on Hunchback production. Courtesy: [Biology-pages](http://biology-pages.info/S/Segmentation.html).
 </p>
