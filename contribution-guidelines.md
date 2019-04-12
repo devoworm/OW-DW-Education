@@ -18,16 +18,17 @@ The following contributor guidelines set the standard for proposed contributions
 
 The OpenWorm Foundation has two levels of contributor: General Contributor and [Senior Contributor](http://openworm.org/people). While anyone can be a general contributor, senior contributor candidates are nominated and voted on by existing senior contributors. As project leaders and intellectual leaders within the organization, only senior contributors are eligible to be administrators.   
 
-## How to make content suggestions:  
+### How to make content suggestions
 
-1) use [hypothes.is](https://web.hypothes.is/) to annotate web-based content.
+1) modify files directly and make a pull request in the respective repository. Moderators will have the right to reject or modify any contributions.
+
+2) use [hypothes.is](https://web.hypothes.is/) to annotate web-based content.
 
 * make notes on the website pages themselves or make notes about how to utilize content for a specific workshop idea.
 
 * these notes remain public and collaborative in the hypothes.is browser extension.
-  
-  
-2) create a web note (using tools such as a [Chrome plugin](https://chrome.google.com/webstore/search/web%20notes?hl=en) or [Microsoft Edge](https://support.microsoft.com/en-us/help/4027048/microsoft-edge-add-notes-to-sites)). Please adhere to the following steps:   
+   
+3) create a web note (using tools such as a [Chrome plugin](https://chrome.google.com/webstore/search/web%20notes?hl=en) or [Microsoft Edge](https://support.microsoft.com/en-us/help/4027048/microsoft-edge-add-notes-to-sites)). Please adhere to the following steps:   
 
 * make your markups using your chosen app.
 
