@@ -4,7 +4,7 @@
 [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/). 
 
 ### Contributors:  
-Dr. Bradly Alicea, 
+Dr. Bradly Alicea, TBA
 
 ### Summary:  
 This course is intended to introduce learners to applications of dynamical systems and complexity to organismal development. 
