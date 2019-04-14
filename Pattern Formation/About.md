@@ -4,7 +4,7 @@
 [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/). 
 
 ### Contributors:  
-Dr. Bradly Alicea, 
+Dr. Bradly Alicea, TBA  
 
 ### Summary: 
 This module features two tutorials that should be convered in the following order
@@ -13,7 +13,7 @@ This module features two tutorials that should be convered in the following orde
 
 2) Cellular Automata   [link](https://github.com/devoworm/OW-DW-Education/blob/master/Pattern%20Formation/Cellular-Automata.md)
 
-3) Developmental Attractors and Chaos   [link](https://github.com/devoworm/OW-DW-Education/blob/master/Pattern%20Formation/Developmental-Attractors-Chaos.md) 
+3) Developmental Attractors and Chaos   [link](https://github.com/devoworm/OW-DW-Education/blob/master/Pattern%20Formation/Developmental-Attractors-Chaos.md)  
 
 ### Discussion Board
 Link to [discussion board](https://eliademy.com/app/a/courses/bdb7b0a934/discussions). Here you will discuss assignments, presentations, and readings.  
