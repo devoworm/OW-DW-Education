@@ -39,3 +39,7 @@ You will be introduced to the diversity of model types that make up "digital wor
 
 **Assignments**
 1) You will be awarded one certificate per digital badge. Submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Models%20and%20Representations/Push%20Assignments%20Here) consisting of a subdirectory labeled FirstName_LastName and include all earned certificates within.
+
+2) explore [NeuronUnit](https://github.com/scidash/neuronunit/blob/dev/README.md), which is a combination of instatiating scientific models of neurons and formal [model checking](https://en.wikipedia.org/wiki/Model_checking). Your assignment is to become familiar with the software, and work through the tutorial provided [at this link](https://github.com/scidash/neuronunit/blob/dev/README.md).  
+
+* complete part 7 of the tutorial (visualize your score) by submitting a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Models%20and%20Representations/Push%20Assignments%20Here) in the same subdirectory as Assignment 1.
