@@ -1,21 +1,21 @@
 # Models and Representations
-### Sponsored by  
+### Sponsored by :  
 [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/). 
 
-### Contributors/Instructors  
+### Contributors/Instructors  :
 Dr. Bradly Alicea [web](https://bradly-alicea.weebly.com/), TBA
 
-### Discussion Board
-Link to [discussion board](https://eliademy.com/app/a/courses/bdb7b0a934/discussions). Here you will discuss assignments, presentations, and readings.
+### Discussion Board :
+Link to [discussion board](https://eliademy.com/app/a/courses/bdb7b0a934/discussions). Here you can discuss assignments, presentations, and readings.
 
-## Summary
-This course is intended to provide collaborators and students with basic background in how to understand and critically evaluate models and representation for a host of systems. We will draw from Biological, Artificial Intelligence, and Artificial Life systems in order to decipher the types of models used in OpenWorm and DevoWorm. 
+## Overview | Course
+This course is intended to provide collaborators and students with an essential background in how to understand and critically evaluate models and representation for a host of systems. We will draw from Biological, Artificial Intelligence, and Artificial Life systems to decipher the types of models used in OpenWorm and DevoWorm. 
 
 ### Evaluation  
 Each section will have assignments, which the learner will complete to earn each part of the course. Assignments will be pushed to an appropriate folder in the [Push Assignments Here](https://github.com/devoworm/OW-DW-Education/tree/master/Models%20and%20Representations/Push%20Assignments%20Here) subdirectory.
 
 ### License  
-All content is licensed under Creative Content license ([CC-BY-SA-4.0](https://github.com/devoworm/Licensing-DRM/blob/master/CC-BY-SA-4.0%20License.md)). 
+All content is licensed under Creative Common license ([CC-BY-SA-4.0](https://github.com/devoworm/Licensing-DRM/blob/master/CC-BY-SA-4.0%20License.md)). 
 
 ## OpenWorm/DevoWorm Models and Representations  
 
@@ -40,6 +40,6 @@ You will be introduced to the diversity of model types that make up "digital wor
 **Assignments**
 1) You will be awarded one certificate per digital badge. Submit a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Models%20and%20Representations/Push%20Assignments%20Here) consisting of a subdirectory labeled FirstName_LastName and include all earned certificates within.
 
-2) explore [NeuronUnit](https://github.com/scidash/neuronunit/blob/dev/README.md), which is a combination of instatiating scientific models of neurons and formal [model checking](https://en.wikipedia.org/wiki/Model_checking). Your assignment is to become familiar with the software, and work through the tutorial provided [at this link](https://github.com/scidash/neuronunit/blob/dev/README.md).  
+2) Explore [NeuronUnit](https://github.com/scidash/neuronunit/blob/dev/README.md), which is a combination of instantiating scientific models of neurons and regular [model checking](https://en.wikipedia.org/wiki/Model_checking). Your assignment is to become familiar with the software and work through the tutorial provided [at this link](https://github.com/scidash/neuronunit/blob/dev/README.md).  
 
-* complete part 7 of the tutorial (visualize your score) by submitting a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Models%20and%20Representations/Push%20Assignments%20Here) in the same subdirectory as Assignment 1.
+* Complete part 7 of the tutorial (visualize your score) by submitting a pull request to [this repo](https://github.com/devoworm/OW-DW-Education/tree/master/Models%20and%20Representations/Push%20Assignments%20Here) in the same subdirectory as Assignment 1.
