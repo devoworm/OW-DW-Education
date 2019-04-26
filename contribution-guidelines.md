@@ -14,24 +14,24 @@ The following contributor guidelines set the standard for proposed contributions
 
 3) Contributions can be proposed for any course content, but they must be reviewed by the project administrator before incorporation into specific lesson plans.
 
-4) Project administrators reserve the right to propose editorial changes to curriculum as proposed. Changes might include exclusion or merger of topics/lesson materials, reorganization of content structure, creation of new modules or courses from said contribution.
+4) Project administrators reserve the right to propose editorial changes to the curriculum as proposed. Changes might include exclusion or merger of topics/lesson materials, reorganization of content structure, creation of new modules or courses from said contribution.
 
 The OpenWorm Foundation has two levels of contributor: General Contributor and [Senior Contributor](http://openworm.org/people). While anyone can be a general contributor, senior contributor candidates are nominated and voted on by existing senior contributors. As project leaders and intellectual leaders within the organization, only senior contributors are eligible to be administrators.   
 
 ### How to make content suggestions
 
-1) modify files directly and make a pull request in the respective repository. Moderators will have the right to reject or modify any contributions.
+1) Modify files directly and make a pull request in the respective repository. Moderators will have the right to reject or edit any contributions.
 
-2) use [hypothes.is](https://web.hypothes.is/) to annotate web-based content.
+2) Use [hypothes.is](https://web.hypothes.is/) to annotate web-based content.
 
-* make notes on the website pages themselves or make notes about how to utilize content for a specific workshop idea.
+* Make notes on the website pages themselves or make notes about how to utilize the content for a specific workshop idea.
 
-* these notes remain public and collaborative in the hypothes.is browser extension.
+* These notes remain public and collaborative in the hypothes.is a browser extension.
    
-3) create a web note (using tools such as a [Chrome plugin](https://chrome.google.com/webstore/search/web%20notes?hl=en) or [Microsoft Edge](https://support.microsoft.com/en-us/help/4027048/microsoft-edge-add-notes-to-sites)). Please adhere to the following steps:   
+3) Create a web note (using tools such as a [Chrome plugin](https://chrome.google.com/webstore/search/web%20notes?hl=en) or [Microsoft Edge](https://support.microsoft.com/en-us/help/4027048/microsoft-edge-add-notes-to-sites)). Please adhere to the following steps:   
 
-* make your markups using your chosen app.
+* Make your markups using your chosen app.
 
-* when finished, save as an image file (.jpg format).  
+* When finished, save as an image file (.jpg format).  
 
-* upload and push the image to the [Web Notes](https://github.com/devoworm/OW-DW-Education/tree/master/Web%20Notes) repository.
+* Upload and push the image to the [Web Notes](https://github.com/devoworm/OW-DW-Education/tree/master/Web%20Notes) repository.
