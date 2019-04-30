@@ -2,8 +2,11 @@
 ### Sponsored by  
 [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/). 
 
-### Contributors/Instructors  
+### Instructors  
 Dr. Bradly Alicea [web](https://bradly-alicea.weebly.com/), TBA
+
+### Contributors
+Asmit Singh [web](https://github.com/asmitks)
 
 ### Course Duration  
 This course is self-paced, but overall should involve around 20-30 hours of engagement (about 40% in-class time for a 3-credit University course).  
