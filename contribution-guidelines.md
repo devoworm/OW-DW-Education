@@ -4,6 +4,8 @@ Would you like to contribute? Here is what we are working on: [OpenWorm Foundati
 
 Check out our communication channels to become part of the community: [Orthogonal Lab Slack](orthogonal-research.slack.com), [OpenWorm Slack](https://openworm.slack.com/), [DevoWorm group meetings](https://devoworm.weebly.com/schedulejoin.html)
 
+Get to know the project! Check out our [welcome document](https://github.com/devoworm/OW-DW-Education/blob/master/README.md) full of useful links, browse the [project presentation](https://drive.google.com/file/d/1dkzsOzLsZ_RW3F9Marn4hQBJNylbPZQ0/view?usp=sharing.%C2%A0), or enroll in our [digital badge](https://www.badgelist.com/OpenWorm/Sprint-for-Internet-Health-Participation)!
+
 ### Contribution Guidelines 
 
 The following contributor guidelines set the standard for proposed contributions to the OW/DW Educational curriculum.
