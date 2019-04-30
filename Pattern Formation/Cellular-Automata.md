@@ -1,5 +1,11 @@
 ## Cellular Automata tutorial  
 
+### Instructor:
+Dr. Bradly Alicea [web](https://bradly-alicea.weebly.com/), TBA
+
+### Contributor:
+Asmit Singh [web](https://github.com/asmitks)
+
 _Please install [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related) or [Math Anywhere](https://chrome.google.com/webstore/detail/math-anywhere/gebhifiddmaaeecbaiemfpejghjdjmhc) Chrome plug-ins to view equations_ 
 
 In the [reaction-diffusion tutorial](https://github.com/devoworm/OW-DW-Education/blob/master/Pattern%20Formation/Reaction-Diffusion.md), a dynamical model was presented that produces patterns and (perhaps more importantly) boundaries between two chemical gradients. Cellular Automata (CA) models of pattern formation are not based on deterministic equations, but do produce collective behavior based on the state of a local group of cells (in a two-dimensional CA, typically <em>(i+1), (j+1) </em>to <em>(i-1), (j-1)</em> for position <em>i,j</em>). 
