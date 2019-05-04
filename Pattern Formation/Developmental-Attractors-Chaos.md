@@ -2,7 +2,9 @@
 
 _Please install [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related) or [Math Anywhere](https://chrome.google.com/webstore/detail/math-anywhere/gebhifiddmaaeecbaiemfpejghjdjmhc) Chrome plug-ins to view equations_  
 
-Developmental attractors are a measure of spatial [self-organization](https://en.wikipedia.org/wiki/Self-organization) in the embryo. In general, [attractors](http://www.scholarpedia.org/article/Attractor) are defined as the convergence of a dynamical system over developmental time. Unlike algorithmic convergence, [attractor basins](http://www.scholarpedia.org/article/Basin_of_attraction) can be highly complex and hard to interpret. Attractors are created by real phenomena such as [genetic regulatory networks](https://en.wikipedia.org/wiki/Gene_regulatory_network), [morphogenetic gradients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2773637/), and developmental trajectories.  
+### Developmental Attractors
+
+Developmental attractors are a measure of spatial [self-organization](https://en.wikipedia.org/wiki/Self-organization) in the embryo. In general, [attractors](http://www.scholarpedia.org/article/Attractor) are defined as the convergence of a dynamical system over developmental time. Unlike algorithmic convergence, [attractor basins](http://www.scholarpedia.org/article/Basin_of_attraction) can be highly complex and hard to interpret. A basin of attraction characterizes the mean behavior of a given system over time in a multi-dimensional phase space. The trajectory of a system's state over time forms an attractor, which is characterized by its oscillatory nature and shape. A chaotic system can operate at states very far from equilibrium, but eventually settle down to the mean behavior (or equilibrium state). Attractors are created by real phenomena such as [genetic regulatory networks](https://en.wikipedia.org/wiki/Gene_regulatory_network), [morphogenetic gradients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2773637/), and developmental trajectories.  
 
 <p align="center">
   <img width="430" height="364" src="https://user-images.githubusercontent.com/19001437/56056496-f65b6700-5d21-11e9-8ae9-bf4a6ee11c21.png"><BR>
@@ -31,3 +33,15 @@ Another issue more specific to development is the ability to model regulatory me
  </p> 
 
  Figure 4. The regulatory effects of _bicoid_ and _nanos_ on Hunchback production. Courtesy: [Biology-pages](http://biology-pages.info/S/Segmentation.html).
+ 
+### Mathematical Chaos
+
+Developmental attractors are the result of a phenomenon called _chaos_. The mathematical version of chaos has a number of specific properties, including but not limited to:
+
+* unstable behavior far from equilibrium.
+
+* sensitivity to initial condition.
+
+* nonlinear feedback that can amplify small changes.
+
+* described using geometrical mathematics.
