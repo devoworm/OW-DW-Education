@@ -30,7 +30,7 @@ This simple form of [bistability](https://en.wikipedia.org/wiki/Bistability) pro
 
 ### Other Mechanisms
 
-Is the Turing mechanism enough to produce a patterned phenotype? Are there other mechanisms related to cell movements [4, 5] or interactions between genotype and phenotype [6] that provide a similar or augmentative mechanism?
+Is the Turing mechanism enough to produce a patterned phenotype? Are there other mechanisms related to cell movements [4, 5] or interactions between genotype and phenotype [6] that provide a similar or augmentative mechanism? If we use marine angelfish as an example, we can see that the Turing model might be too slow to account for pattern recognition [4]. Instead, cells might move rather than chamnge their internal state [5].
 
 ### NOTES:   
 [1]  Turing, A. M. (1952). [The Chemical Basis of Morphogenesis](https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012). _Philosophical Transactions of the Royal Society of London B_, 237 (641), 37–72.
