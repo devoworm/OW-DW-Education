@@ -2,6 +2,8 @@
 
 _Please install [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related) or [Math Anywhere](https://chrome.google.com/webstore/detail/math-anywhere/gebhifiddmaaeecbaiemfpejghjdjmhc) Chrome plug-ins to view equations_  
 
+### Description of Turing Model
+
 The Turing reaction-diffusion model [1], sometimes called _chemical morphogenesis_, is a mean field description in the form of balance equations. On the left hand size of the equation, we have to find the partial derivative of macrostates over time. The first part of the right-hand side of the equation shows the effect of a chemical reaction. The second part shows transport variables such as heat diffusivity ($D$) and macroscopic variables ($x_1, x_2,....x_i$) as they operate along a gradient ($\nabla$). 
 
 $${\frac{\partial{x_i}}{\partial_t}} = V_i({x_j}, \lambda) + D_i \nabla^2 {x_i}\tag{1}$$
@@ -26,10 +28,11 @@ $${\frac{\partial{A}}{\partial{t}}} = F(A, I) + D_A {\frac{\partial^2{A}}{\parti
   
 This simple form of [bistability](https://en.wikipedia.org/wiki/Bistability) provides a mechanism for striping and spotting in an organism's phenotype.  
 
+### Other Mechanisms
 
 Is the Turing mechanism enough to produce a patterned phenotype? Are there other mechanisms related to cell movements [4, 5] or interactions between genotype and phenotype [6] that provide a similar or augmentative mechanism?
 
-__NOTES:__   
+### NOTES:   
 [1]  Turing, A. M. (1952). [The Chemical Basis of Morphogenesis](https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012). _Philosophical Transactions of the Royal Society of London B_, 237 (641), 37–72.
 
 [2] Kondo S, and Miura T (2010). [Reaction-diffusion model as a framework for understanding biological pattern formation](https://www.ncbi.nlm.nih.gov/pubmed/20929839). _Science_, 329, 1616-1620.  
