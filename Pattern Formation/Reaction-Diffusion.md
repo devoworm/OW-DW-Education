@@ -26,9 +26,18 @@ $${\frac{\partial{A}}{\partial{t}}} = F(A, I) + D_A {\frac{\partial^2{A}}{\parti
   
 This simple form of [bistability](https://en.wikipedia.org/wiki/Bistability) provides a mechanism for striping and spotting in an organism's phenotype.  
 
+
+Is the Turing mechanism enough to produce a patterned phenotype? Are there other mechanisms related to cell movements [4, 5] or interactions between genotype and phenotype [6] that provide a similar or augmentative mechanism?
+
 __NOTES:__   
 [1]  Turing, A. M. (1952). [The Chemical Basis of Morphogenesis](https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012). _Philosophical Transactions of the Royal Society of London B_, 237 (641), 37–72.
 
 [2] Kondo S, and Miura T (2010). [Reaction-diffusion model as a framework for understanding biological pattern formation](https://www.ncbi.nlm.nih.gov/pubmed/20929839). _Science_, 329, 1616-1620.  
 
 [3] Torii, K.U. (2012). [Two-dimensional spatial patterning in developmental systems](https://www.ncbi.nlm.nih.gov/pubmed/22789547). _Trends in Cell Biology_, 22(8), 438-446.
+
+[4] Painter, K.J., Maini, P.K., and Othmer, H.G. (1999). [Stripe formation in juvenile Pomacanthus explained by a generalized Turing mechanism with chemotaxis](https://www.pnas.org/content/96/10/5549). PNAS, (10), 5549-5554.
+
+[5] 
+
+[6] Kiskowski, M., Glimm, T., Moreno, N., Gamble, T., and Chiari, Y. (2019). [Isolating and quantifying the role of developmental noise in generating phenotypic variation](https://doi.org/10.1371/journal.pcbi.1006943). PLoS Computational Biology, 15(4), e1006943.
