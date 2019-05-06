@@ -39,6 +39,12 @@ This simple form of [bistability](https://en.wikipedia.org/wiki/Bistability) pro
 
 Is the Turing mechanism enough to produce a patterned phenotype? Are there other mechanisms related to cell movements [4, 5] or interactions between genotype and phenotype [6] that provide a similar or augmentative mechanism? If we use marine angelfish as an example, we can see that the Turing model might be too slow to account for pattern recognition [4]. Instead, cells might move rather than change their internal state [5].
 
+To demonstrate the role of cell movement and other phenotypic mechanisms for pattern formation, please download the NetLogo module for [Hex Cell Aggregation](http://ccl.northwestern.edu/netlogo/models/HexCellAggregation). Run the simulation for various parameter values, then provide some feedback on which model you think is more plausible.
+
+<p align="center">
+  <img width="450" height="60" src="https://user-images.githubusercontent.com/19001437/53523296-13a1e200-3aa2-11e9-991b-88ccea1dc72f.png"><BR>
+</p>
+
 ### NOTES:   
 [1]  Turing, A. M. (1952). [The Chemical Basis of Morphogenesis](https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012). _Philosophical Transactions of the Royal Society of London B_, 237 (641), 37–72.
 
