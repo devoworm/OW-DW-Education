@@ -38,6 +38,6 @@ __NOTES:__
 
 [4] Painter, K.J., Maini, P.K., and Othmer, H.G. (1999). [Stripe formation in juvenile Pomacanthus explained by a generalized Turing mechanism with chemotaxis](https://www.pnas.org/content/96/10/5549). PNAS, (10), 5549-5554.
 
-[5] 
+[5] Gordon, R. (1999). The Hierarchical Genome and Differentiation Waves: Novel Unification of Development, Genetics and Evolution. World Scientific, Singapore.
 
 [6] Kiskowski, M., Glimm, T., Moreno, N., Gamble, T., and Chiari, Y. (2019). [Isolating and quantifying the role of developmental noise in generating phenotypic variation](https://doi.org/10.1371/journal.pcbi.1006943). PLoS Computational Biology, 15(4), e1006943.
