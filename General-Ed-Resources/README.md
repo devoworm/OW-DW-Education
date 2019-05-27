@@ -1,5 +1,3 @@
-# Education
-
 ## Educational resources for the DevoWorm group.  
 
 ### Courses:
