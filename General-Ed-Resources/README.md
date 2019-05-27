@@ -14,7 +14,9 @@ Models and Representations   [link](https://github.com/devoworm/OW-DW-Education/
 
 Pattern Formation (containing tutorials on Cellular Automata, Developmental Attractors/Chaos, and Reaction-Diffusion models)   [link](https://github.com/devoworm/OW-DW-Education/tree/master/Pattern%20Formation)
 
-### Microcredentials from Badgelist (OpenWorm Foundation digital badges):  
+### Microcredentials from [Badgelist](https://www.badgelist.com/OpenWorm) (OpenWorm Foundation digital badges):  
+
+Sprint for Internet Health Participation   [link](https://www.badgelist.com/OpenWorm/Sprint-for-Internet-Health-Participation)  
 
 Github Best Practices   [link](https://www.badgelist.com/OpenWorm/OpenWorm-Github-Best-Practices-Expert)
 
