@@ -30,6 +30,8 @@ Worm Development II   [link](https://www.badgelist.com/OpenWorm/Worm-Development
 
 ### Video Lectures:
 
+DevoWorm Group flash talk (circa October 2016) -- OpenWorm Open House  [link](https://www.youtube.com/watch?v=7Uyjyhi3wMQ)   
+
 Digital Biology and Open Science -- the coming revolution, Dr. Stephen Larson (OpenWorm Foundation) at TEDx  [link](https://www.youtube.com/watch?v=EKopW86CCJo)  
 
 _Caenorhabditis elegans_: a model organism, Science of Biology  [link](https://www.youtube.com/watch?v=JmIWEkbCEd0)  
