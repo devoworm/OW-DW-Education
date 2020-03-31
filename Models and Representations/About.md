@@ -6,7 +6,7 @@
 Dr. Bradly Alicea [web](https://bradly-alicea.weebly.com/), TBA
 
 ### Contributors:
-Uggwal Singh [web](https://github.com/ujjwalll)
+Ujjwal Singh [web](https://github.com/ujjwalll)
 
 ### Discussion Board :
 Link to [discussion board](https://eliademy.com/app/a/courses/bdb7b0a934/discussions). Here you can discuss assignments, presentations, and readings.
