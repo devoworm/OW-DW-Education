@@ -16,7 +16,7 @@ This module features three components that should be completed in the following 
 3) Developmental Attractors and Chaos   [link](https://github.com/devoworm/OW-DW-Education/blob/master/Pattern%20Formation/Developmental-Attractors-Chaos.md)  
 
 ### Discussion Board
-Link to [discussion board](https://gitter.im/OrthogonalLabEd/community). Here you will discuss assignments, presentations, and readings.  
+Link to [discussion board](https://gitter.im/DevoWormEd/community). Here you will discuss assignments, presentations, and readings.  
 
 ### Evaluation:  
 TBA
