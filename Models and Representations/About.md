@@ -9,7 +9,7 @@ Dr. Bradly Alicea [web](https://bradly-alicea.weebly.com/), TBA
 Ujjwal Singh [web](https://github.com/ujjwalll)
 
 ### Discussion Board :
-Link to [discussion board](https://eliademy.com/app/a/courses/bdb7b0a934/discussions). Here you can discuss assignments, presentations, and readings.
+Link to [discussion board](https://gitter.im/DevoWormEd/community). Here you can discuss assignments, presentations, and readings.
 
 ## Overview | Course
 This course is intended to provide collaborators and students with an essential background in how to understand and critically evaluate models and representation for a host of systems. We will draw from Biological, Artificial Intelligence, and Artificial Life systems to decipher the types of models used in OpenWorm and DevoWorm. 
