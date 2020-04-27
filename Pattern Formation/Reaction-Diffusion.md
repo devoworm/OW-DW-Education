@@ -4,7 +4,7 @@
 Dr. Bradly Alicea [web](https://bradly-alicea.weebly.com/), TBA
 
 ### Contributors:
-Dr. Ruchard Gordon [web](https://scholar.google.com/citations?user=LnaynB0AAAAJ&hl=en), TBA
+Dr. Richard Gordon [web](https://scholar.google.com/citations?user=LnaynB0AAAAJ&hl=en), TBA
 
 
 _Please install [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related) or [Math Anywhere](https://chrome.google.com/webstore/detail/math-anywhere/gebhifiddmaaeecbaiemfpejghjdjmhc) Chrome plug-ins to view equations_  
