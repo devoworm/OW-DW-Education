@@ -4,7 +4,7 @@
 [DevoWorm Group](https://devoworm.weebly.com/) and [OpenWorm Foundation](http://openworm.org/). 
 
 ### Contributors:  
-Dr. Bradly Alicea, TBA  
+Dr. Bradly Alicea, Dr. Richard Gordon, Asmit Singh  
 
 ### Summary: 
 This module features three components that should be completed in the following order
